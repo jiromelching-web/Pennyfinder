@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:27:32.814499+00:00",
+ "generated_at": "2026-11-24T19:16:22.852434+00:00",
  "stores": [
   {
    "id": "663",
@@ -541,32 +541,6 @@
   },
   {
    "store_id": "664",
-   "title": "Prime-Line 1 1/4 in. Patio Roller Kit (2-pack)",
-   "price": 1.2,
-   "was": 11.97,
-   "pct_off": 90,
-   "qty": 5,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Prime-Line%201%201/4%20in.%20Patio%20Roller%20Kit%20%282-pack%29"
-  },
-  {
-   "store_id": "664",
-   "title": "Vigoro Malibu Small Blue Textured Ceramic Planter (6 in. L x 6 in. W  x 5.5 in. H)",
-   "price": 1.7,
-   "was": 16.97,
-   "pct_off": 90,
-   "qty": 3,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Vigoro%20Malibu%20Small%20Blue%20Textured%20Ceramic%20Planter%20%286%20in.%20L%20x%206%20in.%20W%20%20x%205.5%20in.%20"
-  },
-  {
-   "store_id": "664",
    "title": "Jiffy 36 Peat PelletSeed Starter Kit with SUPERthrive",
    "price": 1.5,
    "was": 12.3,
@@ -616,32 +590,6 @@
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/ProWood%204-Step%20Redwood-Tone%20Ground%20Contact%20Pressure-Treated%20Pine%20Stair%20Stringer"
-  },
-  {
-   "store_id": "664",
-   "title": "Hampton Bay Brent 24 in. Table Lamp, Gold Finish",
-   "price": 6.0,
-   "was": 39.97,
-   "pct_off": 85,
-   "qty": 3,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Brent%2024%20in.%20Table%20Lamp%2C%20Gold%20Finish"
-  },
-  {
-   "store_id": "664",
-   "title": "Genuine Factory Parts Original Equipment Deck Drive Belt for Select 46 in. Front Engine Riding Lawn Mowers OE# 954-05022 / 754-05022",
-   "price": 7.5,
-   "was": 49.97,
-   "pct_off": 85,
-   "qty": 6,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Genuine%20Factory%20Parts%20Original%20Equipment%20Deck%20Drive%20Belt%20for%20Select%2046%20in.%20Front"
   },
   {
    "store_id": "664",
@@ -775,19 +723,6 @@
   },
   {
    "store_id": "664",
-   "title": "Powercare 1/4 in. x 25 ft. Hose 3200 PSI compatible with Power Washer, Simpson, Ryobi, Westinghouse and others with M22 connectors",
-   "price": 7.49,
-   "was": 29.97,
-   "pct_off": 75,
-   "qty": 3,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Powercare%201/4%20in.%20x%2025%20ft.%20Hose%203200%20PSI%20compatible%20with%20Power%20Washer%2C%20Simpson%2C%20"
-  },
-  {
-   "store_id": "664",
    "title": "Klein Tools 1 in. Conduit Bender and Handle",
    "price": 26.0,
    "was": 104.97,
@@ -850,32 +785,6 @@
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Outdoor%20Solar%20Landscape%20Light%20Replacement%20Metal%20Black%20Ground%20Stake%20%28"
-  },
-  {
-   "store_id": "664",
-   "title": "Prime-Line Chain Door Guard, Solid Brass w/Steel Chain, Polished Brass Finish",
-   "price": 5.5,
-   "was": 17.47,
-   "pct_off": 69,
-   "qty": 2,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Chain%20Door%20Guard%2C%20Solid%20Brass%20w/Steel%20Chain%2C%20Polished%20Brass%20Finish"
-  },
-  {
-   "store_id": "664",
-   "title": "Commercial Electric 1/2 Round Cord Channel Kit",
-   "price": 5.68,
-   "was": 16.98,
-   "pct_off": 67,
-   "qty": 8,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Commercial%20Electric%201/2%20Round%20Cord%20Channel%20Kit"
   },
   {
    "store_id": "664",
@@ -944,19 +853,6 @@
   },
   {
    "store_id": "664",
-   "title": "Prime-Line 3-1/4 in., Solid Brass with Satin Nickel Finish, Rectangular Finger Pull (2-pack)",
-   "price": 4.1,
-   "was": 11.47,
-   "pct_off": 64,
-   "qty": 4,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Prime-Line%203-1/4%20in.%2C%20Solid%20Brass%20with%20Satin%20Nickel%20Finish%2C%20Rectangular%20Finger%20P"
-  },
-  {
-   "store_id": "664",
    "title": "Gibraltar Building Products 15.42 in. x 12 in. Plastic Pipe Boot Flashing with 1-1/4 in. x 4 in. Adjustable Diameter",
    "price": 3.84,
    "was": 9.98,
@@ -1019,45 +915,6 @@
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Pennington%2030%20lbs.%20Smart%20Patch%20Sun%20and%20Shade%20West%20Grass%20Seed%20with%20Mulch%2C%20Fertili"
-  },
-  {
-   "store_id": "664",
-   "title": "Fiskars 6 in. Micro-Tip Pruning Shears",
-   "price": 4.49,
-   "was": 9.98,
-   "pct_off": 55,
-   "qty": 11,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Fiskars%206%20in.%20Micro-Tip%20Pruning%20Shears"
-  },
-  {
-   "store_id": "664",
-   "title": "Vigoro 15 in. Large Sage Green Resin Round Indoor Outdoor Planter with Drain Plug (15 in. L x 15 in. W x 11.6 in. H)",
-   "price": 13.48,
-   "was": 29.97,
-   "pct_off": 55,
-   "qty": 5,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Vigoro%2015%20in.%20Large%20Sage%20Green%20Resin%20Round%20Indoor%20Outdoor%20Planter%20with%20Drain%20Plu"
-  },
-  {
-   "store_id": "664",
-   "title": "Hampton Bay 300 Lumens Connected Black Motion Sensing LED Outdoor Solar Deck Light (2-Pack)",
-   "price": 22.48,
-   "was": 49.97,
-   "pct_off": 55,
-   "qty": 5,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20300%20Lumens%20Connected%20Black%20Motion%20Sensing%20LED%20Outdoor%20Solar%20Deck%20Lig"
   },
   {
    "store_id": "664",
@@ -13997,7 +13854,7 @@
    "name": "Spotted Clovis",
    "url": "https://www.spottedflips.com/clearance/home-depot/ca/clovis",
    "ok": true,
-   "rows": 138
+   "rows": 127
   },
   {
    "name": "Spotted Madera",
@@ -14033,7 +13890,7 @@
   },
   "664": {
    "checked_at": "2026-11-24T01:32:00+00:00",
-   "rows": 138
+   "rows": 127
   },
   "1088": {
    "checked_at": "2026-11-24T01:47:00+00:00",

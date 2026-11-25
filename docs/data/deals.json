@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T16:25:26.791916+00:00",
+ "generated_at": "2026-11-25T19:12:19.909013+00:00",
  "stores": [
   {
    "id": "663",
@@ -554,32 +554,6 @@
   },
   {
    "store_id": "664",
-   "title": "Hampton Bay Brent 24 in. Table Lamp, Black Finish",
-   "price": 8.99,
-   "was": 39.97,
-   "pct_off": 78,
-   "qty": 3,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Brent%2024%20in.%20Table%20Lamp%2C%20Black%20Finish"
-  },
-  {
-   "store_id": "664",
-   "title": "Klein Tools 1 in. Conduit Bender and Handle",
-   "price": 26.0,
-   "was": 104.97,
-   "pct_off": 75,
-   "qty": 5,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Klein%20Tools%201%20in.%20Conduit%20Bender%20and%20Handle"
-  },
-  {
-   "store_id": "664",
    "title": "Pool Time Chlorinating MAXBlue 25 lbs. 3 in. Tablets",
    "price": 33.0,
    "was": 134.0,
@@ -645,19 +619,6 @@
   },
   {
    "store_id": "664",
-   "title": "Prime-Line Orange, Plastic Drawer Track Guide Kit (2-pack)",
-   "price": 1.1,
-   "was": 3.1,
-   "pct_off": 65,
-   "qty": 8,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Orange%2C%20Plastic%20Drawer%20Track%20Guide%20Kit%20%282-pack%29"
-  },
-  {
-   "store_id": "664",
    "title": "Everbilt 11. 5 in. Steel Regular Duty Shelf Bracket-Nickel",
    "price": 1.92,
    "was": 5.48,
@@ -681,19 +642,6 @@
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%203/4%20in.%20Back%20Offset%2C%201%20in.%20Nylon%20Roller%20Closet%20Door%20Roller%2C%20Cox"
-  },
-  {
-   "store_id": "664",
-   "title": "Wal-Board Tools 6 in. Wal-Pro Stainless Steel Joint Knife",
-   "price": 7.4,
-   "was": 20.98,
-   "pct_off": 65,
-   "qty": 19,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Wal-Board%20Tools%206%20in.%20Wal-Pro%20Stainless%20Steel%20Joint%20Knife"
   },
   {
    "store_id": "664",
@@ -733,19 +681,6 @@
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/scotts-turf-builder-lawn-soil-15-cu-ft-for-lawn-repair-or-overseeding-876f2da3",
    "hd_search_url": "https://www.homedepot.com/s/Scotts%20Turf%20Builder%20Lawn%20Soil%201.5%20cu.%20ft.%20For%20Lawn%20Repair%20or%20Overseeding%2C%20Use%20to"
-  },
-  {
-   "store_id": "664",
-   "title": "Leviton 1-Gang C-Series Toggle Switch Wallplate, Standard Size, Magnetic Stainless Steel SL1",
-   "price": 1.49,
-   "was": 2.98,
-   "pct_off": 50,
-   "qty": 14,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Leviton%201-Gang%20C-Series%20Toggle%20Switch%20Wallplate%2C%20Standard%20Size%2C%20Magnetic%20Stainle"
   },
   {
    "store_id": "664",
@@ -900,7 +835,7 @@
    "penny": false,
    "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/everbilt-8-x-1-58-in-phillips-drive-truss-head-lath-sharp-point-screw-f23ab5d9",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%20%238%20x%201-5/8%20in.%20Phillips%20Drive%20Truss%20Head%20Lath%20Sharp%20Point%20Screw%201%20lb.-B"
   },
   {
@@ -1277,7 +1212,7 @@
    "penny": false,
    "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/msi-amalfi-cafe-interlocking-12-in-x-12-in-x-024-in-glassporcelain-mes-7586de0a",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/MSI%20Amalfi%20Cafe%20Interlocking%2012%20in.%20x%2012%20in.%20x%200.24%20in.%20Glass/Porcelain%20Mesh-Mou"
   },
   {
@@ -1316,7 +1251,7 @@
    "penny": false,
    "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/defiant-satin-nickel-t-strike-558ded46",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Defiant%20Satin%20Nickel%20T-Strike"
   },
   {
@@ -1524,7 +1459,7 @@
    "penny": false,
    "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/everbilt-8-32-x-916-in-phillips-drive-truss-head-lath-sharp-point-scre-6abfb687",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%20%238-32%20x%209/16%20in.%20Phillips%20Drive%20Truss%20Head%20Lath%20Sharp%20Point%20Screw%201%20lb."
   },
   {
@@ -14037,7 +13972,7 @@
    "name": "Spotted Clovis",
    "url": "https://www.spottedflips.com/clearance/home-depot/ca/clovis",
    "ok": true,
-   "rows": 136
+   "rows": 131
   },
   {
    "name": "Spotted Madera",
@@ -14073,7 +14008,7 @@
   },
   "664": {
    "checked_at": "2026-11-24T23:33:00+00:00",
-   "rows": 136
+   "rows": 131
   },
   "1088": {
    "checked_at": "2026-11-24T23:57:00+00:00",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:36:07.659051+00:00",
+ "generated_at": "2026-11-25T04:25:09.894579+00:00",
  "stores": [
   {
    "id": "663",
@@ -242,19 +242,6 @@
   },
   {
    "store_id": "1014",
-   "title": "Husky 3/8 in. Drive Master Bit Socket Set (37-Piece)",
-   "price": 53.97,
-   "was": null,
-   "pct_off": null,
-   "qty": 2,
-   "penny": false,
-   "checked_at": "2026-11-24T23:52:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/flips/husky-38-in-drive-master-bit-socket-set-37-piece-f3427d07",
-   "hd_search_url": "https://www.homedepot.com/s/Husky%203/8%20in.%20Drive%20Master%20Bit%20Socket%20Set%20%2837-Piece%29"
-  },
-  {
-   "store_id": "1014",
    "title": "Hampton Bay Smart 650 Lumen Low Voltage Black Integrated LED RGB Color Changing Landscape Flood Light Powered by Hubspace",
    "price": 64.97,
    "was": null,
@@ -278,19 +265,6 @@
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/meater-meater-pro-wireless-digital-meat-thermometer-6f0805f8",
    "hd_search_url": "https://www.homedepot.com/s/MEATER%20MEATER%20Pro%20Wireless%20Digital%20Meat%20Thermometer"
-  },
-  {
-   "store_id": "1014",
-   "title": "Milwaukee M18 FUEL Hedge Trimmer Attachment for Milwaukee QUIK-LOK Attachment System",
-   "price": 199.0,
-   "was": null,
-   "pct_off": null,
-   "qty": 3,
-   "penny": false,
-   "checked_at": "2026-11-24T23:52:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Milwaukee%20M18%20FUEL%20Hedge%20Trimmer%20Attachment%20for%20Milwaukee%20QUIK-LOK%20Attachment%20Sy"
   },
   {
    "store_id": "663",
@@ -330,19 +304,6 @@
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/moen-banbury-24-in-towel-bar-in-spot-resist-brushed-nickel-f30b628f",
    "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%2024%20in.%20Towel%20Bar%20in%20Spot%20Resist%20Brushed%20Nickel"
-  },
-  {
-   "store_id": "663",
-   "title": "StyleWell - Sling Stack Outdoor Dining Chair in Black",
-   "price": 7.4,
-   "was": 29.98,
-   "pct_off": 75,
-   "qty": 2,
-   "penny": false,
-   "checked_at": "2026-11-25T00:00:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/StyleWell%20-%20Sling%20Stack%20Outdoor%20Dining%20Chair%20in%20Black"
   },
   {
    "store_id": "663",
@@ -541,32 +502,6 @@
   },
   {
    "store_id": "664",
-   "title": "LiGHTSOUT with EnerShield Technology Paloma Black 38 in. W x 84 in. L Grommet 100% Blackout Curtains (Single Panel)",
-   "price": 3.0,
-   "was": 19.98,
-   "pct_off": 85,
-   "qty": 11,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/LiGHTSOUT%20with%20EnerShield%20Technology%20Paloma%20Black%2038%20in.%20W%20x%2084%20in.%20L%20Grommet%2010"
-  },
-  {
-   "store_id": "664",
-   "title": "ProWood 4-Step Redwood-Tone Ground Contact Pressure-Treated Pine Stair Stringer",
-   "price": 5.0,
-   "was": 33.97,
-   "pct_off": 85,
-   "qty": 33,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/ProWood%204-Step%20Redwood-Tone%20Ground%20Contact%20Pressure-Treated%20Pine%20Stair%20Stringer"
-  },
-  {
-   "store_id": "664",
    "title": "Makita 3 lbs. 0.080 in. x 1,200 ft. Round Trimmer Line in Green",
    "price": 6.24,
    "was": 40.82,
@@ -577,19 +512,6 @@
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/makita-3-lbs-0080-in-x-1200-ft-round-trimmer-line-in-green-53c7b1f3",
    "hd_search_url": "https://www.homedepot.com/s/Makita%203%20lbs.%200.080%20in.%20x%201%2C200%20ft.%20Round%20Trimmer%20Line%20in%20Green"
-  },
-  {
-   "store_id": "664",
-   "title": "RYOBI 0.4 Amp Corded 2-7/8 in. Detail Sander",
-   "price": 8.85,
-   "was": 59.0,
-   "pct_off": 85,
-   "qty": 4,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/RYOBI%200.4%20Amp%20Corded%202-7/8%20in.%20Detail%20Sander"
   },
   {
    "store_id": "664",
@@ -632,19 +554,6 @@
   },
   {
    "store_id": "664",
-   "title": "SunShine 1.5 cu. ft. Professional Soil Growing Mix",
-   "price": 5.68,
-   "was": 25.27,
-   "pct_off": 78,
-   "qty": 126,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/SunShine%201.5%20cu.%20ft.%20Professional%20Soil%20Growing%20Mix"
-  },
-  {
-   "store_id": "664",
    "title": "Hampton Bay Brent 24 in. Table Lamp, Black Finish",
    "price": 8.99,
    "was": 39.97,
@@ -655,32 +564,6 @@
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Brent%2024%20in.%20Table%20Lamp%2C%20Black%20Finish"
-  },
-  {
-   "store_id": "664",
-   "title": "Vigoro Noelle Small Green Textured Ceramic Planter (6.3 in. L x 6.3 in. W x 5.9 in. H )",
-   "price": 3.74,
-   "was": 14.97,
-   "pct_off": 75,
-   "qty": 2,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Vigoro%20Noelle%20Small%20Green%20Textured%20Ceramic%20Planter%20%286.3%20in.%20L%20x%206.3%20in.%20W%20x%205.9%20"
-  },
-  {
-   "store_id": "664",
-   "title": "Glacier Bay Calandine 24 in. Towel Bar Brushed Nickel",
-   "price": 5.75,
-   "was": 22.98,
-   "pct_off": 75,
-   "qty": 9,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Glacier%20Bay%20Calandine%2024%20in.%20Towel%20Bar%20Brushed%20Nickel"
   },
   {
    "store_id": "664",
@@ -798,19 +681,6 @@
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%203/4%20in.%20Back%20Offset%2C%201%20in.%20Nylon%20Roller%20Closet%20Door%20Roller%2C%20Cox"
-  },
-  {
-   "store_id": "664",
-   "title": "Prime-Line 1-3/4 in. x 9 in. Thick Stainless Steel Lock and Door Reinforcer, 2-1/8 in. Single Bore, 2-3/8 in. Backset",
-   "price": 5.94,
-   "was": 16.97,
-   "pct_off": 65,
-   "qty": 3,
-   "penny": false,
-   "checked_at": "2026-11-24T23:33:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Prime-Line%201-3/4%20in.%20x%209%20in.%20Thick%20Stainless%20Steel%20Lock%20and%20Door%20Reinforcer%2C%202-1"
   },
   {
    "store_id": "664",
@@ -14082,13 +13952,13 @@
    "name": "Spotted Fresno",
    "url": "https://www.spottedflips.com/clearance/home-depot/ca/fresno",
    "ok": true,
-   "rows": 38
+   "rows": 35
   },
   {
    "name": "Spotted Clovis",
    "url": "https://www.spottedflips.com/clearance/home-depot/ca/clovis",
    "ok": true,
-   "rows": 145
+   "rows": 138
   },
   {
    "name": "Spotted Madera",
@@ -14112,11 +13982,11 @@
  "store_checks": {
   "1014": {
    "checked_at": "2026-11-24T23:52:00+00:00",
-   "rows": 19
+   "rows": 17
   },
   "663": {
    "checked_at": "2026-11-25T00:00:00+00:00",
-   "rows": 12
+   "rows": 11
   },
   "1086": {
    "checked_at": "2026-11-24T23:57:00+00:00",
@@ -14124,7 +13994,7 @@
   },
   "664": {
    "checked_at": "2026-11-24T23:33:00+00:00",
-   "rows": 145
+   "rows": 138
   },
   "1088": {
    "checked_at": "2026-11-24T23:57:00+00:00",

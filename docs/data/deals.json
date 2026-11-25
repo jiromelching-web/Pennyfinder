@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:12:20.749670+00:00",
+ "generated_at": "2026-11-25T01:36:07.659051+00:00",
  "stores": [
   {
    "id": "663",
@@ -47,16 +47,55 @@
  "clearance": [
   {
    "store_id": "1014",
+   "title": "PERFORMANCE ACCESSORIES Lighthouse 0.31 in. T x 2 in. W x 78.7 in. L Vinyl 4-in-1 Molding",
+   "price": 8.99,
+   "was": 39.98,
+   "pct_off": 78,
+   "qty": 10,
+   "penny": false,
+   "checked_at": "2026-11-24T23:52:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/PERFORMANCE%20ACCESSORIES%20Lighthouse%200.31%20in.%20T%20x%202%20in.%20W%20x%2078.7%20in.%20L%20Vinyl%204-in-"
+  },
+  {
+   "store_id": "1014",
+   "title": "Scotts EZ Patch Lawn Repair for St. Augustine Lawns",
+   "price": 6.3,
+   "was": 24.47,
+   "pct_off": 74,
+   "qty": 62,
+   "penny": false,
+   "checked_at": "2026-11-24T23:52:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/scotts-ez-patch-lawn-repair-for-st-augustine-lawns-b95b8f03",
+   "hd_search_url": "https://www.homedepot.com/s/Scotts%20EZ%20Patch%20Lawn%20Repair%20for%20St.%20Augustine%20Lawns"
+  },
+  {
+   "store_id": "1014",
    "title": "MOEN Banbury Double Robe Hook in Spot Resist Brushed Nickel",
    "price": 6.04,
    "was": 18.15,
    "pct_off": 67,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/moen-banbury-double-robe-hook-in-spot-resist-brushed-nickel-257e6e42",
    "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%20Double%20Robe%20Hook%20in%20Spot%20Resist%20Brushed%20Nickel"
+  },
+  {
+   "store_id": "1014",
+   "title": "MOEN Banbury 3-Piece Bath Hardware Set with 24 in. Towel Bar, Toilet Paper Holder, and Towel Rin",
+   "price": 18.95,
+   "was": 55.82,
+   "pct_off": 66,
+   "qty": 1,
+   "penny": false,
+   "checked_at": "2026-11-24T23:52:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/moen-banbury-3-piece-bath-hardware-set-with-24-in-towel-bar-toilet-pap-57f76de1",
+   "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%203-Piece%20Bath%20Hardware%20Set%20with%2024%20in.%20Towel%20Bar%2C%20Toilet%20Paper%20Holde"
   },
   {
    "store_id": "1014",
@@ -66,36 +105,23 @@
    "pct_off": 61,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/philips-75-watt-equivalent-par30s-smart-wi-fi-led-color-changing-light-b9a00927",
    "hd_search_url": "https://www.homedepot.com/s/Philips%2075-Watt%20Equivalent%20PAR30S%20Smart%20Wi-Fi%20LED%20Color%20Changing%20Light%20Bulb%20Powe"
   },
   {
    "store_id": "1014",
-   "title": "MOEN Banbury 3-Piece Bath Hardware Set with 24 in. Towel Bar, Toilet Paper Holder, and Towel Rin",
-   "price": 18.95,
-   "was": 48.19,
-   "pct_off": 61,
-   "qty": 1,
+   "title": "Scotts Turf Builder Lawn Soil 1.5 cu. ft. For Lawn Repair or Overseeding, Use to Plant New Grass or Top Dress Soil",
+   "price": 4.49,
+   "was": 9.97,
+   "pct_off": 55,
+   "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/flips/moen-banbury-3-piece-bath-hardware-set-with-24-in-towel-bar-toilet-pap-57f76de1",
-   "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%203-Piece%20Bath%20Hardware%20Set%20with%2024%20in.%20Towel%20Bar%2C%20Toilet%20Paper%20Holde"
-  },
-  {
-   "store_id": "1014",
-   "title": "Scotts EZ Patch Lawn Repair for St. Augustine Lawns",
-   "price": 10.07,
-   "was": 24.47,
-   "pct_off": 59,
-   "qty": 63,
-   "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/flips/scotts-ez-patch-lawn-repair-for-st-augustine-lawns-b95b8f03",
-   "hd_search_url": "https://www.homedepot.com/s/Scotts%20EZ%20Patch%20Lawn%20Repair%20for%20St.%20Augustine%20Lawns"
+   "source_url": "https://www.spottedflips.com/clearance/scotts-turf-builder-lawn-soil-15-cu-ft-for-lawn-repair-or-overseeding-876f2da3",
+   "hd_search_url": "https://www.homedepot.com/s/Scotts%20Turf%20Builder%20Lawn%20Soil%201.5%20cu.%20ft.%20For%20Lawn%20Repair%20or%20Overseeding%2C%20Use%20to"
   },
   {
    "store_id": "1014",
@@ -105,7 +131,7 @@
    "pct_off": 50,
    "qty": 52,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/trafficmaster-grey-fleck-26-in-x-360-in-rubber-gym-floor-utility-runne-6a0d4468",
    "hd_search_url": "https://www.homedepot.com/s/TrafficMaster%20-%20Grey%20Fleck%2026%20in.%20x%20360%20in.%20Rubber%20Gym%20Floor%20Utility%20Runner%20%2865%20"
@@ -118,7 +144,7 @@
    "pct_off": 50,
    "qty": 16,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/RIDGID%20-%2014%20in.%20All-Cut%20Segmented%20Rim%20Diamond%20Saw%20Blade"
@@ -131,7 +157,7 @@
    "pct_off": 46,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/home-decorators-collection-50-lumen-low-voltage-hardwired-brass-integr-abd53c49",
    "hd_search_url": "https://www.homedepot.com/s/Home%20Decorators%20Collection%2050%20Lumen%20Low%20Voltage%20Hardwired%20Brass%20Integrated%20LED%202"
@@ -142,25 +168,12 @@
    "price": 399.5,
    "was": 699.99,
    "pct_off": 43,
-   "qty": 2,
+   "qty": 1,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/traeger-flatrock-griddle-399-at-home-depot-ymmv-19cff3ef",
    "hd_search_url": "https://www.homedepot.com/s/Traeger%20flatrock%20griddle%20%24399%20at%20Home%20Depot%20YMMV"
-  },
-  {
-   "store_id": "1014",
-   "title": "Scotts Turf Builder Lawn Soil 1.5 cu. ft. For Lawn Repair or Overseeding, Use to Plant New Grass or Top Dress Soil",
-   "price": 5.99,
-   "was": 9.97,
-   "pct_off": 40,
-   "qty": 2,
-   "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/scotts-turf-builder-lawn-soil-15-cu-ft-for-lawn-repair-or-overseeding-876f2da3",
-   "hd_search_url": "https://www.homedepot.com/s/Scotts%20Turf%20Builder%20Lawn%20Soil%201.5%20cu.%20ft.%20For%20Lawn%20Repair%20or%20Overseeding%2C%20Use%20to"
   },
   {
    "store_id": "1014",
@@ -170,7 +183,7 @@
    "pct_off": null,
    "qty": 18,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Purex%20Fels%20Naptha%205%20oz.%20Laundry%20Bar%20and%20Fabric%20Stain%20Remover"
@@ -183,7 +196,7 @@
    "pct_off": null,
    "qty": 283,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Basalite%2012%20in.%20x%2012%20in.%20Square%20Stepping%20Stone%20-%20Black"
@@ -196,7 +209,7 @@
    "pct_off": null,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%2015%20Lumen%20Gray%20LED%20Weather%20Resistant%20Outdoor%20Solar%20Mini%20Rock%20Spot%20Lig"
@@ -209,7 +222,7 @@
    "pct_off": null,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Harris%20128%20oz.%20Vinegar-Powered%20Sealed%20Hardwood%20and%20Laminate%20Floor%20Cleaner%20with%20O"
@@ -222,7 +235,7 @@
    "pct_off": null,
    "qty": 77,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/FrogTape%201.41%20in.%20x%2060%20yds.%20Multi-Surface%20Green%20Painting%20Tape"
@@ -235,7 +248,7 @@
    "pct_off": null,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/husky-38-in-drive-master-bit-socket-set-37-piece-f3427d07",
    "hd_search_url": "https://www.homedepot.com/s/Husky%203/8%20in.%20Drive%20Master%20Bit%20Socket%20Set%20%2837-Piece%29"
@@ -248,7 +261,7 @@
    "pct_off": null,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/hampton-bay-smart-650-lumen-low-voltage-black-integrated-led-rgb-color-e722cfc8",
    "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Smart%20650%20Lumen%20Low%20Voltage%20Black%20Integrated%20LED%20RGB%20Color%20Changing%20"
@@ -261,7 +274,7 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/meater-meater-pro-wireless-digital-meat-thermometer-6f0805f8",
    "hd_search_url": "https://www.homedepot.com/s/MEATER%20MEATER%20Pro%20Wireless%20Digital%20Meat%20Thermometer"
@@ -274,10 +287,23 @@
    "pct_off": null,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:43:00+00:00",
+   "checked_at": "2026-11-24T23:52:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Milwaukee%20M18%20FUEL%20Hedge%20Trimmer%20Attachment%20for%20Milwaukee%20QUIK-LOK%20Attachment%20Sy"
+  },
+  {
+   "store_id": "663",
+   "title": "Makita 3 lbs. 0.080 in. x 1,200 ft. Round Trimmer Line in Green",
+   "price": 6.24,
+   "was": 40.82,
+   "pct_off": 85,
+   "qty": 2,
+   "penny": false,
+   "checked_at": "2026-11-25T00:00:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/makita-3-lbs-0080-in-x-1200-ft-round-trimmer-line-in-green-53c7b1f3",
+   "hd_search_url": "https://www.homedepot.com/s/Makita%203%20lbs.%200.080%20in.%20x%201%2C200%20ft.%20Round%20Trimmer%20Line%20in%20Green"
   },
   {
    "store_id": "663",
@@ -287,10 +313,23 @@
    "pct_off": 83,
    "qty": 6,
    "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
+   "checked_at": "2026-11-25T00:00:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/milwaukee-0095-in-x-20-ft-pre-cut-trimmer-line-5-pack-d184815e",
    "hd_search_url": "https://www.homedepot.com/s/Milwaukee%200.095%20in.%20x%2020%20ft.%20Pre-Cut%20Trimmer%20Line%20%285-Pack%29"
+  },
+  {
+   "store_id": "663",
+   "title": "MOEN Banbury 24 in. Towel Bar in Spot Resist Brushed Nickel",
+   "price": 7.19,
+   "was": 32.99,
+   "pct_off": 78,
+   "qty": 2,
+   "penny": false,
+   "checked_at": "2026-11-25T00:00:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/moen-banbury-24-in-towel-bar-in-spot-resist-brushed-nickel-f30b628f",
+   "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%2024%20in.%20Towel%20Bar%20in%20Spot%20Resist%20Brushed%20Nickel"
   },
   {
    "store_id": "663",
@@ -300,23 +339,10 @@
    "pct_off": 75,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
+   "checked_at": "2026-11-25T00:00:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/StyleWell%20-%20Sling%20Stack%20Outdoor%20Dining%20Chair%20in%20Black"
-  },
-  {
-   "store_id": "663",
-   "title": "Makita 3 lbs. 0.080 in. x 1,200 ft. Round Trimmer Line in Green",
-   "price": 13.73,
-   "was": 40.82,
-   "pct_off": 66,
-   "qty": 2,
-   "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/flips/makita-3-lbs-0080-in-x-1200-ft-round-trimmer-line-in-green-53c7b1f3",
-   "hd_search_url": "https://www.homedepot.com/s/Makita%203%20lbs.%200.080%20in.%20x%201%2C200%20ft.%20Round%20Trimmer%20Line%20in%20Green"
   },
   {
    "store_id": "663",
@@ -326,7 +352,7 @@
    "pct_off": 63,
    "qty": 9,
    "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
+   "checked_at": "2026-11-25T00:00:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/philips-40-watt-equivalent-ba11-smart-wi-fi-vintage-edison-led-light-b-e1b2168d",
    "hd_search_url": "https://www.homedepot.com/s/Philips%2040-Watt%20Equivalent%20BA11%20Smart%20Wi-Fi%20Vintage%20Edison%20LED%20Light%20Bulb%20Tunabl"
@@ -339,7 +365,7 @@
    "pct_off": 63,
    "qty": 14,
    "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
+   "checked_at": "2026-11-25T00:00:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/scotts-ez-patch-lawn-repair-for-st-augustine-lawns-b95b8f03",
    "hd_search_url": "https://www.homedepot.com/s/Scotts%20EZ%20Patch%20Lawn%20Repair%20for%20St.%20Augustine%20Lawns"
@@ -352,7 +378,7 @@
    "pct_off": 61,
    "qty": 7,
    "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
+   "checked_at": "2026-11-25T00:00:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/philips-75-watt-equivalent-par30s-smart-wi-fi-led-color-changing-light-b9a00927",
    "hd_search_url": "https://www.homedepot.com/s/Philips%2075-Watt%20Equivalent%20PAR30S%20Smart%20Wi-Fi%20LED%20Color%20Changing%20Light%20Bulb%20Powe"
@@ -365,7 +391,7 @@
    "pct_off": 54,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
+   "checked_at": "2026-11-25T00:00:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Home%20Decorators%20Collection%2031%20in.%20W%20x%2022%20in.%20D%20Cultured%20Marble%20White%20Rectangular"
@@ -378,7 +404,7 @@
    "pct_off": 50,
    "qty": 30,
    "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
+   "checked_at": "2026-11-25T00:00:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/trafficmaster-grey-fleck-26-in-x-360-in-rubber-gym-floor-utility-runne-6a0d4468",
    "hd_search_url": "https://www.homedepot.com/s/TrafficMaster%20-%20Grey%20Fleck%2026%20in.%20x%20360%20in.%20Rubber%20Gym%20Floor%20Utility%20Runner%20%2865%20"
@@ -391,7 +417,7 @@
    "pct_off": 50,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
+   "checked_at": "2026-11-25T00:00:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/dyna-glo-12-in-portable-propane-gas-outdoor-pizza-oven-d4181b48",
    "hd_search_url": "https://www.homedepot.com/s/Dyna-Glo%2012%20in.%20Portable%20Propane%20Gas%20Outdoor%20Pizza%20Oven"
@@ -404,7 +430,7 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
+   "checked_at": "2026-11-25T00:00:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/husky-33-compartment-adjustable-double-sided-tool-storage-organizer-14f08c8a",
    "hd_search_url": "https://www.homedepot.com/s/Husky%2033-Compartment%20Adjustable%20Double%20Sided%20Tool%20Storage%20Organizer"
@@ -417,7 +443,7 @@
    "pct_off": null,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T02:05:00+00:00",
+   "checked_at": "2026-11-25T00:00:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/RYOBI%20-%204-Piece%20Wood%20and%20Metal%20Oscillating%20Multi-Tool%20Blade%20Set"
@@ -430,23 +456,10 @@
    "pct_off": 71,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/moen-banbury-24-in-towel-bar-in-spot-resist-brushed-nickel-f30b628f",
    "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%2024%20in.%20Towel%20Bar%20in%20Spot%20Resist%20Brushed%20Nickel"
-  },
-  {
-   "store_id": "1086",
-   "title": "Makita 3 lbs. 0.080 in. x 1,200 ft. Round Trimmer Line in Green",
-   "price": 13.73,
-   "was": 40.82,
-   "pct_off": 66,
-   "qty": 3,
-   "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/flips/makita-3-lbs-0080-in-x-1200-ft-round-trimmer-line-in-green-53c7b1f3",
-   "hd_search_url": "https://www.homedepot.com/s/Makita%203%20lbs.%200.080%20in.%20x%201%2C200%20ft.%20Round%20Trimmer%20Line%20in%20Green"
   },
   {
    "store_id": "1086",
@@ -456,7 +469,7 @@
    "pct_off": 66,
    "qty": 14,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Home%20Decorators%20Collection%20Greycliff%2020%20Lumen%20Black%20LED%20Weather%20Resistant%20Outdoo"
@@ -469,7 +482,7 @@
    "pct_off": 61,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/philips-75-watt-equivalent-par30s-smart-wi-fi-led-color-changing-light-b9a00927",
    "hd_search_url": "https://www.homedepot.com/s/Philips%2075-Watt%20Equivalent%20PAR30S%20Smart%20Wi-Fi%20LED%20Color%20Changing%20Light%20Bulb%20Powe"
@@ -482,7 +495,7 @@
    "pct_off": 59,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/dewalt-15-amp-corded-12-in-double-bevel-sliding-compound-miter-saw-2f89ba66",
    "hd_search_url": "https://www.homedepot.com/s/DEWALT%2015%20Amp%20Corded%2012%20in.%20Double%20Bevel%20Sliding%20Compound%20Miter%20Saw"
@@ -495,7 +508,7 @@
    "pct_off": 50,
    "qty": 12,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/scotts-ez-patch-lawn-repair-for-st-augustine-lawns-b95b8f03",
    "hd_search_url": "https://www.homedepot.com/s/Scotts%20EZ%20Patch%20Lawn%20Repair%20for%20St.%20Augustine%20Lawns"
@@ -508,7 +521,7 @@
    "pct_off": 50,
    "qty": 72,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/TrafficMaster%20-%20Canyon%20-%20Coal%20-%20Black%20Commercial/Residential%2018%20x%2018%20in.%20Peel%20an"
@@ -521,49 +534,10 @@
    "pct_off": 50,
    "qty": 10,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Versatile%20-%20Assorted%20-%20Multi-Colored%20Commercial/Residential%2024%20x%2024%20in.%20Peel%20and"
-  },
-  {
-   "store_id": "1086",
-   "title": "TrafficMaster - Mesa - Boulder - Beige Residential 18 x 18 in. Peel and Stick Carpet Tile Square (22.5 sq. ft.)",
-   "price": 45.96,
-   "was": 91.92,
-   "pct_off": 50,
-   "qty": 7,
-   "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/flips/trafficmaster-mesa-boulder-beige-residential-18-x-18-in-peel-and-stick-f050d2e6",
-   "hd_search_url": "https://www.homedepot.com/s/TrafficMaster%20-%20Mesa%20-%20Boulder%20-%20Beige%20Residential%2018%20x%2018%20in.%20Peel%20and%20Stick%20Ca"
-  },
-  {
-   "store_id": "664",
-   "title": "Jiffy 36 Peat PelletSeed Starter Kit with SUPERthrive",
-   "price": 1.5,
-   "was": 12.3,
-   "pct_off": 88,
-   "qty": 1,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Jiffy%2036%20Peat%20PelletSeed%20Starter%20Kit%20with%20SUPERthrive"
-  },
-  {
-   "store_id": "664",
-   "title": "Powercare 21 in. Mulching Blade for Many MTD, Cub Cadet, Troy-Bilt and Craftsman Mowers Replaces OEM 742-0741,942-0741",
-   "price": 4.05,
-   "was": 29.68,
-   "pct_off": 86,
-   "qty": 6,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Powercare%2021%20in.%20Mulching%20Blade%20for%20Many%20MTD%2C%20Cub%20Cadet%2C%20Troy-Bilt%20and%20Craftsman"
   },
   {
    "store_id": "664",
@@ -573,7 +547,7 @@
    "pct_off": 85,
    "qty": 11,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/LiGHTSOUT%20with%20EnerShield%20Technology%20Paloma%20Black%2038%20in.%20W%20x%2084%20in.%20L%20Grommet%2010"
@@ -586,10 +560,23 @@
    "pct_off": 85,
    "qty": 33,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/ProWood%204-Step%20Redwood-Tone%20Ground%20Contact%20Pressure-Treated%20Pine%20Stair%20Stringer"
+  },
+  {
+   "store_id": "664",
+   "title": "Makita 3 lbs. 0.080 in. x 1,200 ft. Round Trimmer Line in Green",
+   "price": 6.24,
+   "was": 40.82,
+   "pct_off": 85,
+   "qty": 5,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/makita-3-lbs-0080-in-x-1200-ft-round-trimmer-line-in-green-53c7b1f3",
+   "hd_search_url": "https://www.homedepot.com/s/Makita%203%20lbs.%200.080%20in.%20x%201%2C200%20ft.%20Round%20Trimmer%20Line%20in%20Green"
   },
   {
    "store_id": "664",
@@ -599,23 +586,10 @@
    "pct_off": 85,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/RYOBI%200.4%20Amp%20Corded%202-7/8%20in.%20Detail%20Sander"
-  },
-  {
-   "store_id": "664",
-   "title": "1 in. x 8 in. x 12 ft. Radiata Pine Finger Joint Primed Board",
-   "price": 5.3,
-   "was": 32.82,
-   "pct_off": 84,
-   "qty": 80,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/1%20in.%20x%208%20in.%20x%2012%20ft.%20Radiata%20Pine%20Finger%20Joint%20Primed%20Board"
   },
   {
    "store_id": "664",
@@ -625,7 +599,7 @@
    "pct_off": 83,
    "qty": 26,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/milwaukee-0095-in-x-20-ft-pre-cut-trimmer-line-5-pack-d184815e",
    "hd_search_url": "https://www.homedepot.com/s/Milwaukee%200.095%20in.%20x%2020%20ft.%20Pre-Cut%20Trimmer%20Line%20%285-Pack%29"
@@ -638,7 +612,7 @@
    "pct_off": 83,
    "qty": 6,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Zenna%20Home%20NeverRust%2050%20in.%20to%2072%20in.%20Aluminum%20Curved%20Dual%20Mount%20Shower%20Curtain%20"
@@ -651,7 +625,7 @@
    "pct_off": 79,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/moen-banbury-18-in-towel-bar-in-matte-black-a1514e8f",
    "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%2018%20in.%20Towel%20Bar%20in%20Matte%20Black"
@@ -664,7 +638,7 @@
    "pct_off": 78,
    "qty": 126,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/SunShine%201.5%20cu.%20ft.%20Professional%20Soil%20Growing%20Mix"
@@ -677,23 +651,10 @@
    "pct_off": 78,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Brent%2024%20in.%20Table%20Lamp%2C%20Black%20Finish"
-  },
-  {
-   "store_id": "664",
-   "title": "Husky 3 in. Round Shaft Standard Scratch Awl with Butyrate Handle",
-   "price": 2.25,
-   "was": 8.97,
-   "pct_off": 75,
-   "qty": 2,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Husky%203%20in.%20Round%20Shaft%20Standard%20Scratch%20Awl%20with%20Butyrate%20Handle"
   },
   {
    "store_id": "664",
@@ -703,7 +664,7 @@
    "pct_off": 75,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Vigoro%20Noelle%20Small%20Green%20Textured%20Ceramic%20Planter%20%286.3%20in.%20L%20x%206.3%20in.%20W%20x%205.9%20"
@@ -716,7 +677,7 @@
    "pct_off": 75,
    "qty": 9,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Glacier%20Bay%20Calandine%2024%20in.%20Towel%20Bar%20Brushed%20Nickel"
@@ -729,7 +690,7 @@
    "pct_off": 75,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Klein%20Tools%201%20in.%20Conduit%20Bender%20and%20Handle"
@@ -742,10 +703,23 @@
    "pct_off": 75,
    "qty": 49,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Pool%20Time%20Chlorinating%20MAXBlue%2025%20lbs.%203%20in.%20Tablets"
+  },
+  {
+   "store_id": "664",
+   "title": "HDX 9 Gal. Tough Storage Bin Tote in Clear with Yellow Lid",
+   "price": 3.25,
+   "was": 11.98,
+   "pct_off": 73,
+   "qty": 24,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/HDX%209%20Gal.%20Tough%20Storage%20Bin%20Tote%20in%20Clear%20with%20Yellow%20Lid"
   },
   {
    "store_id": "664",
@@ -755,49 +729,23 @@
    "pct_off": 73,
    "qty": 1,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/philips-hue-85-watt-equivalent-br30-smart-led-color-changing-light-bul-a7fa9f75",
    "hd_search_url": "https://www.homedepot.com/s/Philips%20Hue%2085-Watt%20Equivalent%20BR30%20Smart%20LED%20Color%20Changing%20Light%20Bulb%20with%20Blu"
   },
   {
    "store_id": "664",
-   "title": "Liberty Southhampton 1-1/4 in. (32 mm) Traditional Bronze with Copper Highlights Round Cabinet Knob",
-   "price": 1.14,
-   "was": 3.77,
-   "pct_off": 70,
-   "qty": 48,
+   "title": "USG Sheetrock Brand 1/2 in. x 4 ft. x 8 ft. USG Sheetrock Brand UltraLight Drywall Panels",
+   "price": 4.54,
+   "was": 14.4,
+   "pct_off": 68,
+   "qty": 1029,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Liberty%20Southhampton%201-1/4%20in.%20%2832%20mm%29%20Traditional%20Bronze%20with%20Copper%20Highlights"
-  },
-  {
-   "store_id": "664",
-   "title": "Hampton Bay Outdoor Solar Landscape Light Replacement Metal Black Ground Stake (2-Pack)",
-   "price": 1.79,
-   "was": 5.97,
-   "pct_off": 70,
-   "qty": 4,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Outdoor%20Solar%20Landscape%20Light%20Replacement%20Metal%20Black%20Ground%20Stake%20%28"
-  },
-  {
-   "store_id": "664",
-   "title": "Makita 3 lbs. 0.080 in. x 1,200 ft. Round Trimmer Line in Green",
-   "price": 13.73,
-   "was": 40.82,
-   "pct_off": 66,
-   "qty": 5,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/flips/makita-3-lbs-0080-in-x-1200-ft-round-trimmer-line-in-green-53c7b1f3",
-   "hd_search_url": "https://www.homedepot.com/s/Makita%203%20lbs.%200.080%20in.%20x%201%2C200%20ft.%20Round%20Trimmer%20Line%20in%20Green"
+   "hd_search_url": "https://www.homedepot.com/s/USG%20Sheetrock%20Brand%201/2%20in.%20x%204%20ft.%20x%208%20ft.%20USG%20Sheetrock%20Brand%20UltraLight%20Drywa"
   },
   {
    "store_id": "664",
@@ -807,7 +755,7 @@
    "pct_off": 65,
    "qty": 17,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/ProWood%202%20in.%20x%204%20in.%20x%202%20ft.%20%232%20Grade%20Dimensional%20Lumber"
@@ -820,10 +768,36 @@
    "pct_off": 65,
    "qty": 8,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Orange%2C%20Plastic%20Drawer%20Track%20Guide%20Kit%20%282-pack%29"
+  },
+  {
+   "store_id": "664",
+   "title": "Everbilt 11. 5 in. Steel Regular Duty Shelf Bracket-Nickel",
+   "price": 1.92,
+   "was": 5.48,
+   "pct_off": 65,
+   "qty": 39,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Everbilt%2011.%205%20in.%20Steel%20Regular%20Duty%20Shelf%20Bracket-Nickel"
+  },
+  {
+   "store_id": "664",
+   "title": "Prime-Line 3/4 in. Back Offset, 1 in. Nylon Roller Closet Door Roller, Cox",
+   "price": 2.7,
+   "was": 7.67,
+   "pct_off": 65,
+   "qty": 3,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Prime-Line%203/4%20in.%20Back%20Offset%2C%201%20in.%20Nylon%20Roller%20Closet%20Door%20Roller%2C%20Cox"
   },
   {
    "store_id": "664",
@@ -833,7 +807,7 @@
    "pct_off": 65,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%201-3/4%20in.%20x%209%20in.%20Thick%20Stainless%20Steel%20Lock%20and%20Door%20Reinforcer%2C%202-1"
@@ -846,7 +820,7 @@
    "pct_off": 65,
    "qty": 19,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Wal-Board%20Tools%206%20in.%20Wal-Pro%20Stainless%20Steel%20Joint%20Knife"
@@ -859,7 +833,7 @@
    "pct_off": 62,
    "qty": 37,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Gibraltar%20Building%20Products%2015.42%20in.%20x%2012%20in.%20Plastic%20Pipe%20Boot%20Flashing%20with%201"
@@ -872,7 +846,7 @@
    "pct_off": 62,
    "qty": 52,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/scotts-ez-patch-lawn-repair-for-st-augustine-lawns-b95b8f03",
    "hd_search_url": "https://www.homedepot.com/s/Scotts%20EZ%20Patch%20Lawn%20Repair%20for%20St.%20Augustine%20Lawns"
@@ -885,7 +859,7 @@
    "pct_off": 61,
    "qty": 14,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/philips-75-watt-equivalent-par30s-smart-wi-fi-led-color-changing-light-b9a00927",
    "hd_search_url": "https://www.homedepot.com/s/Philips%2075-Watt%20Equivalent%20PAR30S%20Smart%20Wi-Fi%20LED%20Color%20Changing%20Light%20Bulb%20Powe"
@@ -896,38 +870,12 @@
    "price": 4.4,
    "was": 9.97,
    "pct_off": 56,
-   "qty": 256,
+   "qty": 250,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/scotts-turf-builder-lawn-soil-15-cu-ft-for-lawn-repair-or-overseeding-876f2da3",
    "hd_search_url": "https://www.homedepot.com/s/Scotts%20Turf%20Builder%20Lawn%20Soil%201.5%20cu.%20ft.%20For%20Lawn%20Repair%20or%20Overseeding%2C%20Use%20to"
-  },
-  {
-   "store_id": "664",
-   "title": "Pennington 30 lbs. Smart Patch Sun and Shade West Grass Seed with Mulch, Fertilizer",
-   "price": 32.56,
-   "was": 73.97,
-   "pct_off": 56,
-   "qty": 6,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Pennington%2030%20lbs.%20Smart%20Patch%20Sun%20and%20Shade%20West%20Grass%20Seed%20with%20Mulch%2C%20Fertili"
-  },
-  {
-   "store_id": "664",
-   "title": "Hampton Bay Rosewood 28 in. W x 25 in. H x 40 in. L 40,000 BTU Black Steel Propane Fire Pit Table with Lava Rocks and Cove",
-   "price": 114.5,
-   "was": 249.0,
-   "pct_off": 54,
-   "qty": 1,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Rosewood%2028%20in.%20W%20x%2025%20in.%20H%20x%2040%20in.%20L%2040%2C000%20BTU%20Black%20Steel%20Propa"
   },
   {
    "store_id": "664",
@@ -937,10 +885,23 @@
    "pct_off": 50,
    "qty": 14,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Leviton%201-Gang%20C-Series%20Toggle%20Switch%20Wallplate%2C%20Standard%20Size%2C%20Magnetic%20Stainle"
+  },
+  {
+   "store_id": "664",
+   "title": "BETTERBEAM Raya 11 in. Gold Finish Modern Rechargeable Integrated LED Table Lamp",
+   "price": 9.98,
+   "was": 19.97,
+   "pct_off": 50,
+   "qty": 15,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/BETTERBEAM%20Raya%2011%20in.%20Gold%20Finish%20Modern%20Rechargeable%20Integrated%20LED%20Table%20Lamp"
   },
   {
    "store_id": "664",
@@ -950,7 +911,7 @@
    "pct_off": 50,
    "qty": 6,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/dewalt-flexvolt-60v-max-75-in-cordless-battery-powered-attachment-capa-8b566323",
    "hd_search_url": "https://www.homedepot.com/s/DEWALT%20FLEXVOLT%2060V%20MAX%207.5%20in.%20Cordless%20Battery%20Powered%20Attachment%20Capable%20Edge"
@@ -963,7 +924,7 @@
    "pct_off": 46,
    "qty": 12,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/home-decorators-collection-50-lumen-low-voltage-hardwired-brass-integr-abd53c49",
    "hd_search_url": "https://www.homedepot.com/s/Home%20Decorators%20Collection%2050%20Lumen%20Low%20Voltage%20Hardwired%20Brass%20Integrated%20LED%202"
@@ -976,10 +937,49 @@
    "pct_off": 45,
    "qty": 19,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/weber-slate-rust-resistant-griddle-3-burner-propane-gas-28-in-flat-top-ff1670e5",
    "hd_search_url": "https://www.homedepot.com/s/Weber%20Slate%20Rust-Resistant%20Griddle%203-Burner%20Propane%20Gas%2028%20in.%20Flat%20Top%20Grill%20in"
+  },
+  {
+   "store_id": "664",
+   "title": "Hampton Bay 240 Lumen Low Voltage Millennium Black Adjustable Light Color Integrated LED Outdoor Landscape Spot Light",
+   "price": 18.32,
+   "was": 29.97,
+   "pct_off": 39,
+   "qty": 1,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/hampton-bay-240-lumen-low-voltage-millennium-black-adjustable-light-co-03b229ee",
+   "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20240%20Lumen%20Low%20Voltage%20Millennium%20Black%20Adjustable%20Light%20Color%20Integr"
+  },
+  {
+   "store_id": "664",
+   "title": "Pennington 30 lbs. Smart Patch Sun and Shade West Grass Seed with Mulch, Fertilizer",
+   "price": 48.24,
+   "was": 73.97,
+   "pct_off": 35,
+   "qty": 5,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Pennington%2030%20lbs.%20Smart%20Patch%20Sun%20and%20Shade%20West%20Grass%20Seed%20with%20Mulch%2C%20Fertili"
+  },
+  {
+   "store_id": "664",
+   "title": "OFF! Active Insect Repellent I, Sweat Resistant Mosquito Spray with DEET, 6 oz.",
+   "price": 5.5,
+   "was": 8.07,
+   "pct_off": 32,
+   "qty": 1,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/OFF%21%20Active%20Insect%20Repellent%20I%2C%20Sweat%20Resistant%20Mosquito%20Spray%20with%20DEET%2C%206%20oz."
   },
   {
    "store_id": "664",
@@ -987,11 +987,11 @@
    "price": 12.78,
    "was": 17.99,
    "pct_off": 29,
-   "qty": 5,
+   "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/husky-ratcheting-screwdriver-set-10-piece-130d73f6",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Husky%20Ratcheting%20Screwdriver%20Set%20%2810-Piece%29"
   },
   {
@@ -1002,7 +1002,7 @@
    "pct_off": 25,
    "qty": 1,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/hampton-bay-solar-50-lumens-black-outdoor-integrated-led-adjustable-be-11367bf8",
    "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Solar%2050%20Lumens%20Black%20Outdoor%20Integrated%20LED%20Adjustable%20Beam%20Spotlig"
@@ -1015,7 +1015,7 @@
    "pct_off": 20,
    "qty": 9,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/husky-8-in-1-precision-torx-screwdriver-set-c88c06e7",
    "hd_search_url": "https://www.homedepot.com/s/Husky%208-in-1%20Precision%20Torx%20Screwdriver%20Set"
@@ -1028,7 +1028,7 @@
    "pct_off": 20,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/everbilt-12-1-in-external-hex-flange-hex-head-self-drilling-screw-1-lb-e2fd3002",
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%20%2312%201%20in.%20External%20Hex%20Flange%20Hex-Head%20Self-Drilling%20Screw%201%20lb.-Box%20%281"
@@ -1041,7 +1041,7 @@
    "pct_off": 20,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/everbilt-8-x-1-in-phillips-drive-truss-head-lath-sharp-point-screw-1-l-8d33522f",
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%20%238%20x%201%20in.%20Phillips%20Drive%20Truss%20Head%20Lath%20Sharp%20Point%20Screw%201%20lb.-Box%20%28"
@@ -1054,7 +1054,7 @@
    "pct_off": 20,
    "qty": 11,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/everbilt-8-x-1-58-in-phillips-drive-truss-head-lath-sharp-point-screw-f23ab5d9",
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%20%238%20x%201-5/8%20in.%20Phillips%20Drive%20Truss%20Head%20Lath%20Sharp%20Point%20Screw%201%20lb.-B"
@@ -1067,7 +1067,7 @@
    "pct_off": 20,
    "qty": 11,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/husky-torx-screwdriver-set-5-piece-58a3499b",
    "hd_search_url": "https://www.homedepot.com/s/Husky%20Torx%20Screwdriver%20Set%20%285-Piece%29"
@@ -1080,7 +1080,7 @@
    "pct_off": 20,
    "qty": 16,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/everbilt-14-x-1-in-self-drilling-screw-with-neoprene-washer-1-lb-box-6-2445d5bc",
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%20%2314%20x%201%20in.%20Self-Drilling%20Screw%20with%20Neoprene%20Washer%201%20lb.-Box%20%2862-Piec"
@@ -1093,7 +1093,7 @@
    "pct_off": 20,
    "qty": 6,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%20%2312%20x%201-1/2%20in.%20Flange%20Hex%20Head%20Hex%20Drive%20Self-Drilling%20Screw%20with%20Neop"
@@ -1106,7 +1106,7 @@
    "pct_off": 20,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/husky-multi-bit-screwdriver-with-37-tips-be5d3d48",
    "hd_search_url": "https://www.homedepot.com/s/Husky%20Multi-Bit%20Screwdriver%20with%2037%20Tips"
@@ -1119,7 +1119,7 @@
    "pct_off": 20,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/husky-screwdriver-set-22-piece-fe073075",
    "hd_search_url": "https://www.homedepot.com/s/Husky%20Screwdriver%20Set%20%2822-Piece%29"
@@ -1132,9 +1132,9 @@
    "pct_off": 13,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/husky-interchangeable-blade-screwdriver-set-10-piece-a5df320e",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Husky%20Interchangeable%20Blade%20Screwdriver%20Set%20%2810-Piece%29"
   },
   {
@@ -1145,7 +1145,7 @@
    "pct_off": 10,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/glacier-bay-5-spray-43-in-pet-shower-single-handheld-wall-mount-handhe-bbe9cd1a",
    "hd_search_url": "https://www.homedepot.com/s/Glacier%20Bay%205-Spray%204.3%20in.%20Pet%20Shower%20Single%20Handheld%20Wall%20Mount%20Handheld%20Showe"
@@ -1158,7 +1158,7 @@
    "pct_off": 8,
    "qty": 22,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/M18%20FUEL%2018-V%20Lithium-Ion%20Brushless%20Cordless%20Hammer%20Drill/Impact%20Driver%20Combo%20Ki"
@@ -1171,9 +1171,9 @@
    "pct_off": null,
    "qty": 21,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/daltile-restore-bright-white-6-in-x-6-in-ceramic-wall-tile-025-sq-ft-e-15a50961",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Daltile%20Restore%20Bright%20White%206%20in.%20x%206%20in.%20Ceramic%20Wall%20Tile%20%280.25%20sq.%20ft./%20Each"
   },
   {
@@ -1184,7 +1184,7 @@
    "pct_off": null,
    "qty": 9,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Drawer%20Track%20Guide%20Kit%2C%201-1/8%20in.%2C%20Plastic%2C%20Green%20%282-pack%29"
@@ -1197,7 +1197,7 @@
    "pct_off": null,
    "qty": 26,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/DIABLO%206%20in.%2014/18%20TPI%20Bi-Metal%20Reciprocating%20Saw%20Blade%20for%20Medium%20Metal"
@@ -1210,10 +1210,36 @@
    "pct_off": null,
    "qty": 20,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/DIABLO%206%20in.%208/14%20TPI%20Bi-Metal%20Reciprocating%20Saw%20Blade%20for%20General%20Purpose%20Cuts"
+  },
+  {
+   "store_id": "664",
+   "title": "Earthgro Earthgro 1.5 cu. ft. Brown Wood Shredded Bagged Mulch",
+   "price": 3.97,
+   "was": null,
+   "pct_off": null,
+   "qty": 714,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Earthgro%20Earthgro%201.5%20cu.%20ft.%20Brown%20Wood%20Shredded%20Bagged%20Mulch"
+  },
+  {
+   "store_id": "664",
+   "title": "Elkay 1-1/2 in. Stainless Steel Kitchen Sink Faucet Hole Cover",
+   "price": 3.98,
+   "was": null,
+   "pct_off": null,
+   "qty": 17,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Elkay%201-1/2%20in.%20Stainless%20Steel%20Kitchen%20Sink%20Faucet%20Hole%20Cover"
   },
   {
    "store_id": "664",
@@ -1223,7 +1249,7 @@
    "pct_off": null,
    "qty": 30,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/FastenMaster%20ThruLOK%20Through-Bolt%20Replacement%20-%208%20inch%20thru%20bolts%20for%20wood%20%28Sing"
@@ -1236,7 +1262,7 @@
    "pct_off": null,
    "qty": 22,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/DIABLO%2012%20in.%2010/14%20TPI%20Flush%20Cut%20Bi-Metal%20Reciprocating%20Saw%20Blade%20for%20Nail-Embe"
@@ -1249,7 +1275,7 @@
    "pct_off": null,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Bi-Fold%20Door%20Top%20Pivot%20and%20Guide%20Set%2C%207/16%20in.%20steel%20housing"
@@ -1262,9 +1288,9 @@
    "pct_off": null,
    "qty": 21,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/everbilt-small-end-caps-96-pack-44f3d578",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%20Small%20End%20Caps%20%2896-Pack%29"
   },
   {
@@ -1273,11 +1299,11 @@
    "price": 6.28,
    "was": null,
    "pct_off": null,
-   "qty": 70,
+   "qty": 69,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/hdx-20-in-x-25-in-x-1-in-standard-pleated-air-filter-fpr-5-merv-8-390029c5",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/HDX%2020%20in.%20x%2025%20in.%20x%201%20in.%20Standard%20Pleated%20Air%20Filter%20FPR%205%2C%20MERV%208"
   },
   {
@@ -1288,7 +1314,7 @@
    "pct_off": null,
    "qty": 7,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Bi-Fold%20Door%20Top%20Pivot%20and%20Guide%20Wheel%20%282-pack%29"
@@ -1301,7 +1327,7 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Sliding%20Screen%20Door%20Latch%20and%20Pull%2C%203%20in.%20Hole%20Center%2C%20Black%20Plastic%20"
@@ -1314,7 +1340,7 @@
    "pct_off": null,
    "qty": 17,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Old%20English%208%20oz.%20Scratch%20Cover%20for%20Light%20Woods"
@@ -1327,7 +1353,7 @@
    "pct_off": null,
    "qty": 12,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Liberty%2024%20in.%20Wall%20Mounted%20Replacement%20Towel%20Bar%20Rod%20in%20Clear"
@@ -1340,7 +1366,7 @@
    "pct_off": null,
    "qty": 11,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Franklin%20Brass%2024%20in.%20Wall%20Mounted%20Replacement%20Towel%20Bar%20Rod%20in%20White"
@@ -1353,7 +1379,7 @@
    "pct_off": null,
    "qty": 22,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Old%20English%208%20oz.%20Scratch%20Cover%20for%20Dark%20Woods"
@@ -1366,7 +1392,7 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/prime-line-door-hole-cover-plate-2-58-in-diameter-finished-in-gray-pri-35c1d60d",
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Door%20Hole%20Cover%20Plate%2C%202-5/8%20in.%20Diameter%2C%20Finished%20in%20Gray%20Primer"
@@ -1379,7 +1405,7 @@
    "pct_off": null,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Aluminum%20Casement%20Window%20Locking%20Handle"
@@ -1390,9 +1416,9 @@
    "price": 7.97,
    "was": null,
    "pct_off": null,
-   "qty": 14,
+   "qty": 13,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Woolite%20Carpet%20and%20Upholstery%20Foam%20Cleaner%2012%20oz."
@@ -1405,7 +1431,7 @@
    "pct_off": null,
    "qty": 79,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/msi-amalfi-cafe-interlocking-12-in-x-12-in-x-024-in-glassporcelain-mes-7586de0a",
    "hd_search_url": "https://www.homedepot.com/s/MSI%20Amalfi%20Cafe%20Interlocking%2012%20in.%20x%2012%20in.%20x%200.24%20in.%20Glass/Porcelain%20Mesh-Mou"
@@ -1418,10 +1444,23 @@
    "pct_off": null,
    "qty": 30,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%205/8%20in.-11%20x%2010%20in.%20Galvanized%20Carriage%20Bolt"
+  },
+  {
+   "store_id": "664",
+   "title": "Husky 4-Piece Industrial Quick Connect Kit",
+   "price": 8.48,
+   "was": null,
+   "pct_off": null,
+   "qty": 6,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Husky%204-Piece%20Industrial%20Quick%20Connect%20Kit"
   },
   {
    "store_id": "664",
@@ -1431,7 +1470,7 @@
    "pct_off": null,
    "qty": 9,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/defiant-satin-nickel-t-strike-558ded46",
    "hd_search_url": "https://www.homedepot.com/s/Defiant%20Satin%20Nickel%20T-Strike"
@@ -1444,7 +1483,7 @@
    "pct_off": null,
    "qty": 9,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Milwaukee%209%20in.%203%20TPI%20Pruning%20Carbide%20Teeth%20Wood%20Cutting%20SAWZALL%20Reciprocating%20S"
@@ -1457,10 +1496,23 @@
    "pct_off": null,
    "qty": 6,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Commercial%20Electric%206%20ft.%20VGA%20Cable-Black"
+  },
+  {
+   "store_id": "664",
+   "title": "Everbilt 6 x 1 in. Black 6-Lobe Torx Drive Exterior Flat Head Multi-Material Screw 1 lb.-Box (320-piece)",
+   "price": 9.98,
+   "was": null,
+   "pct_off": null,
+   "qty": 15,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Everbilt%206%20x%201%20in.%20Black%206-Lobe%20Torx%20Drive%20Exterior%20Flat%20Head%20Multi-Material%20Scr"
   },
   {
    "store_id": "664",
@@ -1470,7 +1522,7 @@
    "pct_off": null,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/defiant-satin-nickel-asa-latch-strike-c1ac9f86",
    "hd_search_url": "https://www.homedepot.com/s/Defiant%20Satin%20Nickel%20ASA%20Latch%20Strike"
@@ -1483,7 +1535,7 @@
    "pct_off": null,
    "qty": 12,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Pledge%2014.2%20oz.%20Fresh%20Citrus%20Antibacterial%20All-Purpose%20Cleaner%20Spray"
@@ -1496,10 +1548,23 @@
    "pct_off": null,
    "qty": 6,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Tapcon%203/16%20in.%20x%201-1/2%20in.%20Steel%20Flat-Head%20Phillips%20Stucco%20Anchors%20with%20Drill%20B"
+  },
+  {
+   "store_id": "664",
+   "title": "GE Universal Whole House Replacement Water Filter Cartridge (2-Pack)",
+   "price": 10.98,
+   "was": null,
+   "pct_off": null,
+   "qty": 4,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/GE%20Universal%20Whole%20House%20Replacement%20Water%20Filter%20Cartridge%20%282-Pack%29"
   },
   {
    "store_id": "664",
@@ -1507,11 +1572,11 @@
    "price": 10.98,
    "was": null,
    "pct_off": null,
-   "qty": 9,
+   "qty": 8,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/wal-board-tools-drywall-rasp-no-rails-with-soft-grip-handle-d75e5d44",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Wal-Board%20Tools%20Drywall%20Rasp%20No%20Rails%2C%20with%20Soft%20Grip%20Handle"
   },
   {
@@ -1522,7 +1587,7 @@
    "pct_off": null,
    "qty": 8,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Weber%20Pecan%20Wood%20Chunks"
@@ -1535,7 +1600,7 @@
    "pct_off": null,
    "qty": 21,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Rain%20Bird%20Rotary%20Sprinkler%20Nozzle%2C%2045-270%20Degree%20Pattern%2C%20Adjustable%2017-24%20ft."
@@ -1548,7 +1613,7 @@
    "pct_off": null,
    "qty": 7,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Weber%20Grill%20Skewer%20Set"
@@ -1561,7 +1626,7 @@
    "pct_off": null,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Steel%2C%20Mirrored%20Wardrobe%20Door%20Roller%20Assembly%2C%20Cox"
@@ -1574,7 +1639,7 @@
    "pct_off": null,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/SPAX%20%2310%20x%202-1/2%20in.%20Interior%20Wafer%20Head%20Wood%20Screws%20Cabinet%20Torx%20T-Star%20Plus%20%287"
@@ -1587,7 +1652,7 @@
    "pct_off": null,
    "qty": 8,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/everbilt-10-in-x-6-in-3-way-steel-fixed-curved-blade-wallceiling-regis-f04e2ecc",
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%2010%20in.%20x%206%20in.%203-Way%20Steel%20Fixed%20Curved%20Blade%20Wall/Ceiling%20Register%20in%20"
@@ -1600,7 +1665,7 @@
    "pct_off": null,
    "qty": 50,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Round%20Enameled%20Wood%20Toilet%20Seat%20in%20White"
@@ -1613,7 +1678,7 @@
    "pct_off": null,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/everbilt-8-32-x-916-in-phillips-drive-truss-head-lath-sharp-point-scre-6abfb687",
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%20%238-32%20x%209/16%20in.%20Phillips%20Drive%20Truss%20Head%20Lath%20Sharp%20Point%20Screw%201%20lb."
@@ -1626,7 +1691,7 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Legrand%20Wiremold%20Non-Metallic%20PVC%20Raceway%202%20Gang%20Outlet%20Box%2C%20White"
@@ -1639,7 +1704,7 @@
    "pct_off": null,
    "qty": 6,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Milwaukee%201/4%20in.%20Arbor%20Cut%20Off%20Wheel%20Adapter"
@@ -1652,10 +1717,23 @@
    "pct_off": null,
    "qty": 12,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Lithium%20Phosphate%20400mAh%20Solar%20Rechargeable%2014430%20Batteries%20%282-Pack%29"
+  },
+  {
+   "store_id": "664",
+   "title": "SPAX #8 x 1-1/4 in. Exterior Flat Head Deck Wood Screws Construction Torx T-Star Plus (230 Each) 1 LB Bit Included",
+   "price": 15.27,
+   "was": null,
+   "pct_off": null,
+   "qty": 3,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/SPAX%20%238%20x%201-1/4%20in.%20Exterior%20Flat%20Head%20Deck%20Wood%20Screws%20Construction%20Torx%20T-Star"
   },
   {
    "store_id": "664",
@@ -1665,9 +1743,9 @@
    "pct_off": null,
    "qty": 10,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/everbilt-27-hooks-tie-belt-rack-256a8ded",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%2027%20HOOKS%20TIE%20%26%20BELT%20RACK"
   },
   {
@@ -1678,10 +1756,23 @@
    "pct_off": null,
    "qty": 9,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Avanti%20Pro%20Bi-Metal%20Reciprocating%20Saw%20Blade%20Set%20%289-Piece%29"
+  },
+  {
+   "store_id": "664",
+   "title": "Vigoro Reedley 16 in. Dia. x 11.5 in. H Medium Kentucky Walnut Brown Round Lightweight Resin Wine Barrel Planter",
+   "price": 16.97,
+   "was": null,
+   "pct_off": null,
+   "qty": 6,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Vigoro%20Reedley%2016%20in.%20Dia.%20x%2011.5%20in.%20H%20Medium%20Kentucky%20Walnut%20Brown%20Round%20Light"
   },
   {
    "store_id": "664",
@@ -1691,7 +1782,7 @@
    "pct_off": null,
    "qty": 9,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/kraus-cappro-removable-decorative-drain-cover-acfd5da1",
    "hd_search_url": "https://www.homedepot.com/s/KRAUS%20CapPro%20Removable%20Decorative%20Drain%20Cover"
@@ -1704,7 +1795,7 @@
    "pct_off": null,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Tapcon%201/4%20in.%20x%202-1/8%20in.%20Steel%20Hex-Washer-Head%20Stucco%20Anchors%20with%20Drill%20Bit%20%28"
@@ -1717,7 +1808,7 @@
    "pct_off": null,
    "qty": 10,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Lithium%20Phosphate%201000%20mAh%20Solar%20Rechargeable%2018500%20Batteries%20%282-Pac"
@@ -1730,7 +1821,7 @@
    "pct_off": null,
    "qty": 7,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Husky%201/4%20in.%20x%2025%20ft.%20Polyurethane%20Recoil%20Hose"
@@ -1743,10 +1834,23 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Vigoro%20Eden%20Medium%20White%20Resin%20Lightweight%20Self-Watering%20Square%20Planter%20%2814.1%20in"
+  },
+  {
+   "store_id": "664",
+   "title": "Tzumi 6 ft. Ultra Tough Lightning Cable",
+   "price": 19.98,
+   "was": null,
+   "pct_off": null,
+   "qty": 5,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Tzumi%206%20ft.%20Ultra%20Tough%20Lightning%20Cable"
   },
   {
    "store_id": "664",
@@ -1756,7 +1860,7 @@
    "pct_off": null,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Satin%20Nickel%2C%20Pocket%20Door%20Pull"
@@ -1769,7 +1873,7 @@
    "pct_off": null,
    "qty": 18,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/EnduroShield%20Glass%20Treatment%20Kit%20with%202%20oz.%20Coating%20and%204.2%20oz.%20Cleaner%20for%20Glas"
@@ -1782,7 +1886,7 @@
    "pct_off": null,
    "qty": 53,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Tri-PLY%20Underlayment%20%28Common%3A%205.0%20mm%20x%204%20ft.%20x%204%20ft.%3B%20Actual%3A%200.196%20in.%20x%2047.75%20"
@@ -1795,9 +1899,9 @@
    "pct_off": null,
    "qty": 6,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/ridgid-5-in-diamond-multi-cutting-blade-5b71196f",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/RIDGID%205%20in.%20Diamond%20Multi-Cutting%20Blade"
   },
   {
@@ -1808,23 +1912,10 @@
    "pct_off": null,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/18%20in.%20Black%20Snap%20Install%20Hook%20Rack%20with%204%20Satin%20Nickel%20Pill%20Top%20Hooks"
-  },
-  {
-   "store_id": "664",
-   "title": "BEMIS Richfield Round Enameled Wood Never Loosens and Removes for Easy Cleaning Toilet Seat in White",
-   "price": 24.98,
-   "was": null,
-   "pct_off": null,
-   "qty": 1,
-   "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/BEMIS%20Richfield%20Round%20Enameled%20Wood%20Never%20Loosens%20and%20Removes%20for%20Easy%20Cleaning%20"
   },
   {
    "store_id": "664",
@@ -1834,7 +1925,7 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Franklin%20Brass%20%282-Pack%29%20Futura%2018%20in.%20Wall%20Mount%20Towel%20Bar%20Bath%20Hardware%20Accesso"
@@ -1847,10 +1938,23 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%203%20in.%20-%2015/16%20in.%20Gray%20Diecast%20Sliding%20Patio%20Door%20Handle%20with%20Wood%20Ha"
+  },
+  {
+   "store_id": "664",
+   "title": "MSI Alexandra White 12 in. x 24 in. Matte Porcelain Marble Look Floor and Wall Tile (16 sq. ft. /Case)",
+   "price": 26.72,
+   "was": null,
+   "pct_off": null,
+   "qty": 30,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/MSI%20Alexandra%20White%2012%20in.%20x%2024%20in.%20Matte%20Porcelain%20Marble%20Look%20Floor%20and%20Wall%20T"
   },
   {
    "store_id": "664",
@@ -1860,10 +1964,23 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Delta%20Greenwich%2018%20in.%20Wall%20Mounted%20Towel%20Bar%20in%20Chrome"
+  },
+  {
+   "store_id": "664",
+   "title": "Pfister Wall Mounted Ladera Towel Ring in Spot Defense Brushed Nickel",
+   "price": 26.98,
+   "was": null,
+   "pct_off": null,
+   "qty": 5,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/pfister-wall-mounted-ladera-towel-ring-in-spot-defense-brushed-nickel-5cb84395",
+   "hd_search_url": "https://www.homedepot.com/s/Pfister%20Wall%20Mounted%20Ladera%20Towel%20Ring%20in%20Spot%20Defense%20Brushed%20Nickel"
   },
   {
    "store_id": "664",
@@ -1873,9 +1990,9 @@
    "pct_off": null,
    "qty": 13,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": null,
+   "source_url": "https://www.spottedflips.com/flips/bemis-richfield-elongated-enameled-wood-toilet-seat-in-white-never-loo-ca4daf48",
    "hd_search_url": "https://www.homedepot.com/s/BEMIS%20Richfield%20Elongated%20Enameled%20Wood%20Toilet%20Seat%20in%20White%20Never%20Loosens%20and%20R"
   },
   {
@@ -1886,7 +2003,7 @@
    "pct_off": null,
    "qty": 8,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%2036%20in.%20Adjustable%20Storage%20Wall%20Mount%20Tool%20Bar%20with%205%20Rubber%20Grip%20Hooks%20"
@@ -1899,10 +2016,23 @@
    "pct_off": null,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/delta-greenwich-24-in-wall-mounted-towel-bar-in-chrome-1b3c8d3a",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Delta%20Greenwich%2024%20in.%20Wall%20Mounted%20Towel%20Bar%20in%20Chrome"
+  },
+  {
+   "store_id": "664",
+   "title": "Vigoro 15 in. Large Sage Green Resin Round Indoor Outdoor Planter with Drain Plug (15 in. L x 15 in. W x 11.6 in. H)",
+   "price": 29.97,
+   "was": null,
+   "pct_off": null,
+   "qty": 5,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Vigoro%2015%20in.%20Large%20Sage%20Green%20Resin%20Round%20Indoor%20Outdoor%20Planter%20with%20Drain%20Plu"
   },
   {
    "store_id": "664",
@@ -1910,9 +2040,9 @@
    "price": 29.98,
    "was": null,
    "pct_off": null,
-   "qty": 18,
+   "qty": 17,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/BEMIS%20Jamestown%20Round%20Soft%20Close%20with%20Adjustability%20Never%20Loosens%20Enameled%20Wood%20"
@@ -1923,12 +2053,25 @@
    "price": 29.98,
    "was": null,
    "pct_off": null,
-   "qty": 450,
+   "qty": 447,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Tzumi%20Super%20Bass%20Jobsite%20Speaker"
+  },
+  {
+   "store_id": "664",
+   "title": "Fire TV Stick 4K Plus (Newest Model)",
+   "price": 29.99,
+   "was": null,
+   "pct_off": null,
+   "qty": 11,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Fire%20TV%20Stick%204K%20Plus%20%28Newest%20Model%29"
   },
   {
    "store_id": "664",
@@ -1938,7 +2081,7 @@
    "pct_off": null,
    "qty": 8,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/22oz%20Milled%20Face%20Framing%20Hammer%20and%2015%22%20Pry%20Bar"
@@ -1951,7 +2094,7 @@
    "pct_off": null,
    "qty": 7,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/KOHLER%20Stonewood%20Elongated%20Toilet%20Seat%20in%20White"
@@ -1964,7 +2107,7 @@
    "pct_off": null,
    "qty": 7,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/American%20Standard%20Cadet%20Round%20Antimicrobial%20Soft%20Close%20Toilet%20Seat%20in%20White"
@@ -1977,7 +2120,7 @@
    "pct_off": null,
    "qty": 7,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%2011%20in.%203%20Speed%20Portable%20Desk%20Fan%20in%20Black"
@@ -1990,10 +2133,23 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%201-3/8%20in.%20x%209%20in.%20Thick%20Solid%20Brass%20Lock%20and%20Door%20Reinforcer%2C%202-1/8%20i"
+  },
+  {
+   "store_id": "664",
+   "title": "Powercare Deck Belt for 46 in. cut Craftsman, Husqvarna, Poulan mowers, Replaces OEM Numbers 405143, 532405143, 584453101",
+   "price": 36.27,
+   "was": null,
+   "pct_off": null,
+   "qty": 7,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Powercare%20Deck%20Belt%20for%2046%20in.%20cut%20Craftsman%2C%20Husqvarna%2C%20Poulan%20mowers%2C%20Replaces"
   },
   {
    "store_id": "664",
@@ -2003,7 +2159,7 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/RYOBI%20ONE%2B%2018V%20Cordless%20High%20Volume%20Inflator%20%28Tool%20Only%29"
@@ -2016,7 +2172,7 @@
    "pct_off": null,
    "qty": 13,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/KOHLER%20Cachet%20Elongated%20Antimicrobial%2C%20Soft%20Close%20Toilet%20Seat%20in%20White"
@@ -2029,7 +2185,7 @@
    "pct_off": null,
    "qty": 75,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Lasko%20Cyclone%2018%20in.%203%20Speed%20Oscillating%20Pedestal%20Fan%20for%20Home%20in%20Black%20with%20Adj"
@@ -2042,10 +2198,23 @@
    "pct_off": null,
    "qty": 15,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Glacier%20Bay%2024%20in.%20W%20x%2030%20in.%20H%20Rectangular%20Classic%20Frameless%20Wall%20Bathroom%20Vani"
+  },
+  {
+   "store_id": "664",
+   "title": "Suncast 125 ft. Side Tracker Wall Mount Hose Reel",
+   "price": 44.98,
+   "was": null,
+   "pct_off": null,
+   "qty": 6,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Suncast%20125%20ft.%20Side%20Tracker%20Wall%20Mount%20Hose%20Reel"
   },
   {
    "store_id": "664",
@@ -2055,7 +2224,7 @@
    "pct_off": null,
    "qty": 11,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Schlage%20B62%20Series%20Aged%20Bronze%20Double%20Cylinder%20Deadbolt%20Certified%20Highest%20for%20Se"
@@ -2068,7 +2237,7 @@
    "pct_off": null,
    "qty": 7,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Prime-Line%20Diecast%2C%20White%2C%20Patio%20Door%20Handle"
@@ -2081,10 +2250,36 @@
    "pct_off": null,
    "qty": 7,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/glacier-bay-24-in-w-x-36-in-h-rectangular-classic-frameless-wall-bathr-cf2afdc9",
    "hd_search_url": "https://www.homedepot.com/s/Glacier%20Bay%2024%20in.%20W%20x%2036%20in.%20H%20Rectangular%20Classic%20Frameless%20Wall%20Bathroom%20Vani"
+  },
+  {
+   "store_id": "664",
+   "title": "Glacier Bay 36 in. W x 42 in. H Frameless Rectangular Polished Edge Bathroom Vanity Mirror in Silver",
+   "price": 79.97,
+   "was": null,
+   "pct_off": null,
+   "qty": 4,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/glacier-bay-36-in-w-x-42-in-h-frameless-rectangular-polished-edge-bath-d37ffabc",
+   "hd_search_url": "https://www.homedepot.com/s/Glacier%20Bay%2036%20in.%20W%20x%2042%20in.%20H%20Frameless%20Rectangular%20Polished%20Edge%20Bathroom%20Van"
+  },
+  {
+   "store_id": "664",
+   "title": "VECTOR 800 Amp Jump Starter with USB Power",
+   "price": 79.98,
+   "was": null,
+   "pct_off": null,
+   "qty": 5,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/vector-800-amp-jump-starter-with-usb-power-26d56e1e",
+   "hd_search_url": "https://www.homedepot.com/s/VECTOR%20800%20Amp%20Jump%20Starter%20with%20USB%20Power"
   },
   {
    "store_id": "664",
@@ -2094,7 +2289,7 @@
    "pct_off": null,
    "qty": 11,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/RIDGID%2018V%20Cordless%20Portable%20Inflator%20%28Tool%20Only%29"
@@ -2107,7 +2302,7 @@
    "pct_off": null,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/traeger-full-length-grill-cover-for-pro-575-and-pro-22-pellet-grills-d439b058",
    "hd_search_url": "https://www.homedepot.com/s/Traeger%20Full%20Length%20Grill%20Cover%20for%20Pro%20575%20and%20Pro%2022%20Pellet%20Grills"
@@ -2120,10 +2315,23 @@
    "pct_off": null,
    "qty": 1,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": null,
+   "source_url": "https://www.spottedflips.com/flips/ideal-pet-products-ruff-weather-725-in-x-13-in-door-install-pet-door-1580bc2e",
    "hd_search_url": "https://www.homedepot.com/s/Ideal%20Pet%20Products%20Ruff%20Weather%207.25%20in.%20x%2013%20in.%20Door%20Install%20Pet%20Door"
+  },
+  {
+   "store_id": "664",
+   "title": "Hampton Bay Boswell Quarter 12 in. 2-Light Brushed Nickel with Weathered Wood Accents Coastal Flush Mount for Bedrooms with Bulbs",
+   "price": 99.0,
+   "was": null,
+   "pct_off": null,
+   "qty": 3,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/hampton-bay-boswell-quarter-12-in-2-light-brushed-nickel-with-weathere-9bf79d4e",
+   "hd_search_url": "https://www.homedepot.com/s/Hampton%20Bay%20Boswell%20Quarter%2012%20in.%202-Light%20Brushed%20Nickel%20with%20Weathered%20Wood%20Ac"
   },
   {
    "store_id": "664",
@@ -2133,7 +2341,7 @@
    "pct_off": null,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Husky%2030-Ton%20Bottle%20Car%20Jack"
@@ -2146,9 +2354,9 @@
    "pct_off": null,
    "qty": 13,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/wayne-16-hp-waterbug-submersible-utility-pump-with-multi-flo-technolog-3ecdae0c",
+   "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Wayne%201/6%20HP%20WaterBUG%20Submersible%20Utility%20Pump%20with%20Multi-Flo%20Technology"
   },
   {
@@ -2159,7 +2367,7 @@
    "pct_off": null,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/VECTOR%201400%20Amp%20Jump%20Starter%2C%20Compressor%2C%20USB%20and%20AC%20Power"
@@ -2172,10 +2380,36 @@
    "pct_off": null,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/everbilt-72-in-dark-oil-rubbed-top-mount-sliding-barn-door-track-and-h-67a6134e",
    "hd_search_url": "https://www.homedepot.com/s/Everbilt%2072%20in.%20Dark%20Oil-Rubbed%20Top%20Mount%20Sliding%20Barn%20Door%20Track%20and%20Hardware%20K"
+  },
+  {
+   "store_id": "664",
+   "title": "M18 FUEL 18-Volt Brushless Cordless Gen II 18-Gauge Brad Nailer (Tool-Only) with Clear Anti Scratch Safety Glasses",
+   "price": 265.0,
+   "was": null,
+   "pct_off": null,
+   "qty": 21,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/M18%20FUEL%2018-Volt%20Brushless%20Cordless%20Gen%20II%2018-Gauge%20Brad%20Nailer%20%28Tool-Only%29%20with"
+  },
+  {
+   "store_id": "664",
+   "title": "Glacier Bay Bratten 33 in. Drop-In Single Bowl 18 Gauge Stainless Steel Kitchen Sink with Pull-Down Faucet",
+   "price": 329.0,
+   "was": null,
+   "pct_off": null,
+   "qty": 4,
+   "penny": false,
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "source": "Spotted",
+   "source_url": null,
+   "hd_search_url": "https://www.homedepot.com/s/Glacier%20Bay%20Bratten%2033%20in.%20Drop-In%20Single%20Bowl%2018%20Gauge%20Stainless%20Steel%20Kitchen%20"
   },
   {
    "store_id": "664",
@@ -2185,7 +2419,7 @@
    "pct_off": null,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:32:00+00:00",
+   "checked_at": "2026-11-24T23:33:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Delta%20Callidora%2056%20to%2060%20in.%20W%20x%2076%20in.%20H%20Soft-Close%20Frameless%20Sliding%20Shower%20Do"
@@ -2198,7 +2432,7 @@
    "pct_off": 79,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/moen-banbury-wall-mounted-towel-ring-in-spot-resist-brushed-nickel-e7eef181",
    "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%20Wall%20Mounted%20Towel%20Ring%20in%20Spot%20Resist%20Brushed%20Nickel"
@@ -2211,7 +2445,7 @@
    "pct_off": 69,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/moen-banbury-23-in-w-x-26-in-h-oval-frameless-tilt-wall-bathroom-vanit-81a514f3",
    "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%2023%20in.%20W%20x%2026%20in.%20H%20Oval%20Frameless%20Tilt%20Wall%20Bathroom%20Vanity%20Mirror"
@@ -2224,7 +2458,7 @@
    "pct_off": 66,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Home%20Decorators%20Collection%20Greycliff%2020%20Lumen%20Black%20LED%20Weather%20Resistant%20Outdoo"
@@ -2237,7 +2471,7 @@
    "pct_off": 63,
    "qty": 7,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/philips-40-watt-equivalent-ba11-smart-wi-fi-vintage-edison-led-light-b-e1b2168d",
    "hd_search_url": "https://www.homedepot.com/s/Philips%2040-Watt%20Equivalent%20BA11%20Smart%20Wi-Fi%20Vintage%20Edison%20LED%20Light%20Bulb%20Tunabl"
@@ -2250,7 +2484,7 @@
    "pct_off": 61,
    "qty": 5,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/philips-75-watt-equivalent-par30s-smart-wi-fi-led-color-changing-light-b9a00927",
    "hd_search_url": "https://www.homedepot.com/s/Philips%2075-Watt%20Equivalent%20PAR30S%20Smart%20Wi-Fi%20LED%20Color%20Changing%20Light%20Bulb%20Powe"
@@ -2263,7 +2497,7 @@
    "pct_off": 59,
    "qty": 4,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/dewalt-15-amp-corded-12-in-double-bevel-sliding-compound-miter-saw-2f89ba66",
    "hd_search_url": "https://www.homedepot.com/s/DEWALT%2015%20Amp%20Corded%2012%20in.%20Double%20Bevel%20Sliding%20Compound%20Miter%20Saw"
@@ -2276,7 +2510,7 @@
    "pct_off": 56,
    "qty": 1,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/moen-banbury-24-in-towel-bar-in-spot-resist-brushed-nickel-f30b628f",
    "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%2024%20in.%20Towel%20Bar%20in%20Spot%20Resist%20Brushed%20Nickel"
@@ -2289,7 +2523,7 @@
    "pct_off": 50,
    "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/dewalt-flexvolt-60v-max-75-in-cordless-battery-powered-attachment-capa-8b566323",
    "hd_search_url": "https://www.homedepot.com/s/DEWALT%20FLEXVOLT%2060V%20MAX%207.5%20in.%20Cordless%20Battery%20Powered%20Attachment%20Capable%20Edge"
@@ -2302,10 +2536,36 @@
    "pct_off": 90,
    "qty": 1,
    "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
+   "checked_at": "2026-11-25T00:02:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/ryobi-lvtlvp-cutting-guide-and-knife-kit-1b60b5f1",
    "hd_search_url": "https://www.homedepot.com/s/RYOBI%20LVT/LVP%20Cutting%20Guide%20and%20Knife%20Kit"
+  },
+  {
+   "store_id": "8529",
+   "title": "MOEN Banbury 24 in. Towel Bar in Spot Resist Brushed Nickel",
+   "price": 7.19,
+   "was": 32.99,
+   "pct_off": 78,
+   "qty": 1,
+   "penny": false,
+   "checked_at": "2026-11-25T00:02:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/flips/moen-banbury-24-in-towel-bar-in-spot-resist-brushed-nickel-f30b628f",
+   "hd_search_url": "https://www.homedepot.com/s/MOEN%20Banbury%2024%20in.%20Towel%20Bar%20in%20Spot%20Resist%20Brushed%20Nickel"
+  },
+  {
+   "store_id": "8529",
+   "title": "Scotts Turf Builder Lawn Soil 1.5 cu. ft. For Lawn Repair or Overseeding, Use to Plant New Grass or Top Dress Soil",
+   "price": 3.32,
+   "was": 9.97,
+   "pct_off": 67,
+   "qty": 130,
+   "penny": false,
+   "checked_at": "2026-11-25T00:02:00+00:00",
+   "source": "Spotted",
+   "source_url": "https://www.spottedflips.com/clearance/scotts-turf-builder-lawn-soil-15-cu-ft-for-lawn-repair-or-overseeding-876f2da3",
+   "hd_search_url": "https://www.homedepot.com/s/Scotts%20Turf%20Builder%20Lawn%20Soil%201.5%20cu.%20ft.%20For%20Lawn%20Repair%20or%20Overseeding%2C%20Use%20to"
   },
   {
    "store_id": "8529",
@@ -2313,25 +2573,12 @@
    "price": 19.9,
    "was": 58.97,
    "pct_off": 66,
-   "qty": 4,
+   "qty": 3,
    "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
+   "checked_at": "2026-11-25T00:02:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/home-decorators-collection-charlotte-20-lumen-black-led-weather-resist-4147678a",
    "hd_search_url": "https://www.homedepot.com/s/Home%20Decorators%20Collection%20Charlotte%2020%20Lumen%20Black%20LED%20Weather%20Resistant%20Outdoo"
-  },
-  {
-   "store_id": "8529",
-   "title": "Philips 40-Watt Equivalent BA11 Smart Wi-Fi Vintage Edison LED Light Bulb Tunable White 2700 (K) E26 WiZ w/ Bluetooth (1-Pack)",
-   "price": 5.24,
-   "was": 14.27,
-   "pct_off": 63,
-   "qty": 9,
-   "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/philips-40-watt-equivalent-ba11-smart-wi-fi-vintage-edison-led-light-b-e1b2168d",
-   "hd_search_url": "https://www.homedepot.com/s/Philips%2040-Watt%20Equivalent%20BA11%20Smart%20Wi-Fi%20Vintage%20Edison%20LED%20Light%20Bulb%20Tunabl"
   },
   {
    "store_id": "8529",
@@ -2341,7 +2588,7 @@
    "pct_off": 61,
    "qty": 8,
    "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
+   "checked_at": "2026-11-25T00:02:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/philips-75-watt-equivalent-par30s-smart-wi-fi-led-color-changing-light-b9a00927",
    "hd_search_url": "https://www.homedepot.com/s/Philips%2075-Watt%20Equivalent%20PAR30S%20Smart%20Wi-Fi%20LED%20Color%20Changing%20Light%20Bulb%20Powe"
@@ -2352,9 +2599,9 @@
    "price": 259.35,
    "was": 629.0,
    "pct_off": 59,
-   "qty": 2,
+   "qty": 1,
    "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
+   "checked_at": "2026-11-25T00:02:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/dewalt-15-amp-corded-12-in-double-bevel-sliding-compound-miter-saw-2f89ba66",
    "hd_search_url": "https://www.homedepot.com/s/DEWALT%2015%20Amp%20Corded%2012%20in.%20Double%20Bevel%20Sliding%20Compound%20Miter%20Saw"
@@ -2367,7 +2614,7 @@
    "pct_off": 55,
    "qty": 12,
    "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
+   "checked_at": "2026-11-25T00:02:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/scotts-ez-patch-lawn-repair-for-st-augustine-lawns-b95b8f03",
    "hd_search_url": "https://www.homedepot.com/s/Scotts%20EZ%20Patch%20Lawn%20Repair%20for%20St.%20Augustine%20Lawns"
@@ -2380,7 +2627,7 @@
    "pct_off": 50,
    "qty": 9,
    "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
+   "checked_at": "2026-11-25T00:02:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/RIDGID%20-%2014%20in.%20All-Cut%20Segmented%20Rim%20Diamond%20Saw%20Blade"
@@ -2393,23 +2640,10 @@
    "pct_off": 50,
    "qty": 2,
    "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
+   "checked_at": "2026-11-25T00:02:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/nexgrill-daytona-2-burner-propane-gas-grill-21-in-flat-top-griddle-wit-03acf333",
    "hd_search_url": "https://www.homedepot.com/s/Nexgrill%20Daytona%202-Burner%20Propane%20Gas%20Grill%2021%20in.%20Flat%20Top%20Griddle%20with%20Foldabl"
-  },
-  {
-   "store_id": "8529",
-   "title": "Scotts Turf Builder Lawn Soil 1.5 cu. ft. For Lawn Repair or Overseeding, Use to Plant New Grass or Top Dress Soil",
-   "price": 5.31,
-   "was": 9.97,
-   "pct_off": 47,
-   "qty": 131,
-   "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/scotts-turf-builder-lawn-soil-15-cu-ft-for-lawn-repair-or-overseeding-876f2da3",
-   "hd_search_url": "https://www.homedepot.com/s/Scotts%20Turf%20Builder%20Lawn%20Soil%201.5%20cu.%20ft.%20For%20Lawn%20Repair%20or%20Overseeding%2C%20Use%20to"
   },
   {
    "store_id": "8529",
@@ -2419,7 +2653,7 @@
    "pct_off": 43,
    "qty": 1,
    "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
+   "checked_at": "2026-11-25T00:02:00+00:00",
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/traeger-flatrock-griddle-399-at-home-depot-ymmv-19cff3ef",
    "hd_search_url": "https://www.homedepot.com/s/Traeger%20flatrock%20griddle%20%24399%20at%20Home%20Depot%20YMMV"
@@ -2432,7 +2666,7 @@
    "pct_off": null,
    "qty": 1,
    "penny": false,
-   "checked_at": "2026-11-24T02:02:00+00:00",
+   "checked_at": "2026-11-25T00:02:00+00:00",
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/18%20in.%20White%20Snap%20Install%20Hook%20Rack%20with%204%20Satin%20Nickel%20Pill%20Top%20Hooks"
@@ -13854,7 +14088,7 @@
    "name": "Spotted Clovis",
    "url": "https://www.spottedflips.com/clearance/home-depot/ca/clovis",
    "ok": true,
-   "rows": 127
+   "rows": 145
   },
   {
    "name": "Spotted Madera",
@@ -13877,27 +14111,27 @@
  ],
  "store_checks": {
   "1014": {
-   "checked_at": "2026-11-24T01:43:00+00:00",
-   "rows": 18
+   "checked_at": "2026-11-24T23:52:00+00:00",
+   "rows": 19
   },
   "663": {
-   "checked_at": "2026-11-24T02:05:00+00:00",
-   "rows": 11
+   "checked_at": "2026-11-25T00:00:00+00:00",
+   "rows": 12
   },
   "1086": {
-   "checked_at": "2026-11-24T01:47:00+00:00",
-   "rows": 9
+   "checked_at": "2026-11-24T23:57:00+00:00",
+   "rows": 7
   },
   "664": {
-   "checked_at": "2026-11-24T01:32:00+00:00",
-   "rows": 127
+   "checked_at": "2026-11-24T23:33:00+00:00",
+   "rows": 145
   },
   "1088": {
-   "checked_at": "2026-11-24T01:47:00+00:00",
+   "checked_at": "2026-11-24T23:57:00+00:00",
    "rows": 8
   },
   "8529": {
-   "checked_at": "2026-11-24T02:02:00+00:00",
+   "checked_at": "2026-11-25T00:02:00+00:00",
    "rows": 11
   }
  }

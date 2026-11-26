@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T04:21:52.532264+00:00",
+ "generated_at": "2026-11-26T07:40:47.321114+00:00",
  "stores": [
   {
    "id": "663",
@@ -395,19 +395,6 @@
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/flips/husky-33-compartment-adjustable-double-sided-tool-storage-organizer-14f08c8a",
    "hd_search_url": "https://www.homedepot.com/s/Husky%2033-Compartment%20Adjustable%20Double%20Sided%20Tool%20Storage%20Organizer"
-  },
-  {
-   "store_id": "663",
-   "title": "RYOBI - 4-Piece Wood and Metal Oscillating Multi-Tool Blade Set",
-   "price": 29.97,
-   "was": null,
-   "pct_off": null,
-   "qty": 5,
-   "penny": false,
-   "checked_at": "2026-11-25T00:00:00+00:00",
-   "source": "Spotted",
-   "source_url": null,
-   "hd_search_url": "https://www.homedepot.com/s/RYOBI%20-%204-Piece%20Wood%20and%20Metal%20Oscillating%20Multi-Tool%20Blade%20Set"
   },
   {
    "store_id": "1086",
@@ -13966,7 +13953,7 @@
    "name": "Spotted Fresno",
    "url": "https://www.spottedflips.com/clearance/home-depot/ca/fresno",
    "ok": true,
-   "rows": 35
+   "rows": 34
   },
   {
    "name": "Spotted Clovis",
@@ -14000,7 +13987,7 @@
   },
   "663": {
    "checked_at": "2026-11-25T00:00:00+00:00",
-   "rows": 11
+   "rows": 10
   },
   "1086": {
    "checked_at": "2026-11-24T23:57:00+00:00",

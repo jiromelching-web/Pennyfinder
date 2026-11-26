@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:17:11.389027+00:00",
+ "generated_at": "2026-11-26T22:11:07.824912+00:00",
  "stores": [
   {
    "id": "663",
@@ -122,19 +122,6 @@
    "source": "Spotted",
    "source_url": "https://www.spottedflips.com/clearance/scotts-turf-builder-lawn-soil-15-cu-ft-for-lawn-repair-or-overseeding-876f2da3",
    "hd_search_url": "https://www.homedepot.com/s/Scotts%20Turf%20Builder%20Lawn%20Soil%201.5%20cu.%20ft.%20For%20Lawn%20Repair%20or%20Overseeding%2C%20Use%20to"
-  },
-  {
-   "store_id": "1014",
-   "title": "TrafficMaster - Grey Fleck 26 in. x 360 in. Rubber Gym Floor Utility Runner (65 sq. ft.)",
-   "price": 3.49,
-   "was": 6.98,
-   "pct_off": 50,
-   "qty": 52,
-   "penny": false,
-   "checked_at": "2026-11-24T23:52:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/trafficmaster-grey-fleck-26-in-x-360-in-rubber-gym-floor-utility-runne-6a0d4468",
-   "hd_search_url": "https://www.homedepot.com/s/TrafficMaster%20-%20Grey%20Fleck%2026%20in.%20x%20360%20in.%20Rubber%20Gym%20Floor%20Utility%20Runner%20%2865%20"
   },
   {
    "store_id": "1014",
@@ -356,19 +343,6 @@
    "source": "Spotted",
    "source_url": null,
    "hd_search_url": "https://www.homedepot.com/s/Home%20Decorators%20Collection%2031%20in.%20W%20x%2022%20in.%20D%20Cultured%20Marble%20White%20Rectangular"
-  },
-  {
-   "store_id": "663",
-   "title": "TrafficMaster - Grey Fleck 26 in. x 360 in. Rubber Gym Floor Utility Runner (65 sq. ft.)",
-   "price": 3.49,
-   "was": 6.98,
-   "pct_off": 50,
-   "qty": 30,
-   "penny": false,
-   "checked_at": "2026-11-25T00:00:00+00:00",
-   "source": "Spotted",
-   "source_url": "https://www.spottedflips.com/clearance/trafficmaster-grey-fleck-26-in-x-360-in-rubber-gym-floor-utility-runne-6a0d4468",
-   "hd_search_url": "https://www.homedepot.com/s/TrafficMaster%20-%20Grey%20Fleck%2026%20in.%20x%20360%20in.%20Rubber%20Gym%20Floor%20Utility%20Runner%20%2865%20"
   },
   {
    "store_id": "663",
@@ -13995,7 +13969,7 @@
    "name": "Spotted Fresno",
    "url": "https://www.spottedflips.com/clearance/home-depot/ca/fresno",
    "ok": true,
-   "rows": 34
+   "rows": 32
   },
   {
    "name": "Spotted Clovis",
@@ -14025,11 +13999,11 @@
  "store_checks": {
   "1014": {
    "checked_at": "2026-11-24T23:52:00+00:00",
-   "rows": 17
+   "rows": 16
   },
   "663": {
    "checked_at": "2026-11-25T00:00:00+00:00",
-   "rows": 10
+   "rows": 9
   },
   "1086": {
    "checked_at": "2026-11-24T23:57:00+00:00",
